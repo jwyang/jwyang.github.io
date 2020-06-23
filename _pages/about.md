@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am a senior researcher in [Deep Learning Group](https://www.microsoft.com/en-us/research/group/deep-learning-group/) at Microsoft Research, Redmond, directed by [Dr. Jianfeng Gao](http://research.microsoft.com/en-us/um/people/jfgao/). My research interests span in computer vision, vision & language and machine learning. More specifically, my primary researches are about structured visual understanding at different levels and how to further leverage them for intelligent interactions with human through language and environment through embodiment:
 
-* **Computer Vision**: Introudcing structure inductive bias at multi-image, single-image and single-object level for deep clustering, scene graph generation and object classification.
+* **Computer Vision**: Introudcing structure inductive bias at multi-image, single-image and single-object level for deep clustering, object detection/scene graph generation and object classification.
 
 * **Vision and Language**: Leveraging object detections and (symbolic) scene graph structure for grounded image captioning, visual question answering and generation.
 
@@ -19,5 +19,3 @@ Hi, I am a senior researcher in [Deep Learning Group](https://www.microsoft.com/
 I believe, by integrating fine-grained structured information, we can achieve better yet interpretable, grounded and robust multi-modality intelligent systems.
 
 Prior to joining Microsoft, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu). I was supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and worked closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). My thesis topic is "Structured Visual Understanding, Generation and Reasoning". Here is my inaccessable [GT homepage](https://www.cc.gatech.edu/~jyang375/).
-
-If you are interested in my researches, please drop an email to jianwyan at microsoft.com or jw2yang at gatech.edu!
