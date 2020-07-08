@@ -20,4 +20,4 @@ I believe, by integrating fine-grained structured information, we can achieve be
 
 Prior to joining Microsoft, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu). I was supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and worked closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). My thesis topic is "Structured Visual Understanding, Generation and Reasoning". Here is my old [GT homepage](https://www.cc.gatech.edu/~jyang375/).
 
-If you are interested in working with me as an research intern, please feel free to drop me an email through jianwei.yang at microsoft dot com or jw2yang at gatech dot edu.
+**If you are interested in working with me as an research intern, please feel free to drop me an email through jianwei.yang at microsoft dot com or jw2yang at gatech dot edu.**
