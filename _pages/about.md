@@ -16,7 +16,7 @@ Hi, I am a senior researcher in [Deep Learning Group](https://www.microsoft.com/
 
 * **Embodied AI**: Learning active moving strategies for a simulated agent toward a fine-grained understanding (semantic labels, shapes, etc) of objects in 3D environments. 
 
-I believe, by integrating fine-grained structured information, we can achieve better yet interpretable, grounded and robust multi-modality intelligent systems.
+I believe, by integrating fine-grained structured information, we can achieve better yet interpretable, grounded and robust multi-modality intelligent agent.
 
 Prior to joining Microsoft, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu). I was supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and worked closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). My thesis topic is "Structured Visual Understanding, Generation and Reasoning". Here is my old [GT homepage](https://www.cc.gatech.edu/~jyang375/).
 
