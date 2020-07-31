@@ -14,7 +14,7 @@ Hi, I am a senior researcher in [Deep Learning Group](https://www.microsoft.com/
 
 * **Vision and Language**: Leveraging object detections and (symbolic) scene graph structure for grounded image captioning, visual question answering and generation.
 
-* **Embodied AI**: Learning active moving strategies for a simulated agent toward a fine-grained understanding (semantic labels, shapes, etc) of objects in 3D environments. 
+* **Embodied Vision and/or Language**: Learning active moving strategies for a simulated agent toward a fine-grained understanding (semantic labels, shapes, etc) of objects in 3D environments or a preceise following of language instructions.
 
 I believe, by integrating fine-grained structured information, we can achieve better yet interpretable, grounded and robust multi-modality intelligent agent.
 
