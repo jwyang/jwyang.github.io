@@ -17,4 +17,4 @@ Prior to joining Microsoft, I earned my Ph.D. in Computer Science from School of
 ## News <img src="/images/fire.png" width="4%"/> 
 <img src="/images/dart.png" width="2.5%"/> \[01/01/2021\] We show in our [arXiv paper](https://arxiv.org/pdf/2101.00529.pdf) that vision feature matters significantly for vision-language tasks!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[12/21/2020\] We release our [arXiv paper](https://arxiv.org/pdf/2012.11587.pdf) studying the visual reasoning capacity in visual question answering models!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[11/18/2020\] We release our [arXiv paper](https://arxiv.org/pdf/2011.09530.pdf) leveraging token relationships to learn neural-symbolic video captioning generation!<br/>
+<img src="/images/dart.png" width="2.5%"/> \[11/18/2020\] We release our [arXiv paper](https://arxiv.org/pdf/2011.09530.pdf) leveraging token relationships to learn neural-symbolic video captioning!<br/>
