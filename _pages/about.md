@@ -14,7 +14,7 @@ Prior to joining Microsoft, I earned my Ph.D. in Computer Science from School of
 
 **If you are interested in working with me as a research intern, please feel free to drop me an email through jianwei.yang at microsoft dot com or jw2yang at gatech dot edu.**
 
-![Alt](/images/fire.png “News”)
+![](/images/fire.png “News”)
 
 <img src="/images/fire.png" width="3%"/> ## News
 <img src="/images/dart.png" width="2.5%"/> \[01/01/2021\] We show in our [arXiv paper](https://arxiv.org/pdf/2101.00529.pdf) that vision feature matters significantly for vision-language tasks!<br/>
