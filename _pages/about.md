@@ -14,7 +14,7 @@ Prior to joining Microsoft, I earned my Ph.D. in Computer Science from School of
 
 **If you are interested in working with me as a research intern, please feel free to drop me an email through jianwei.yang at microsoft dot com or jw2yang at gatech dot edu.**
 
-## News<img src="/images/fire.png" width="2%"/> 
+## News <img src="/images/fire.png" width="2%"/> 
 :dart: [01/01/2021] We show in our [arXiv paper](https://arxiv.org/pdf/2101.00529.pdf) that vision feature matters significantly for vision-language tasks!<br/>
 :dart: [12/21/2020] We release our [arXiv paper](https://arxiv.org/pdf/2012.11587.pdf) studying the visual reasoning capacity in visual question answering models!<br/>
 :dart: [11/18/2020] We release our [arXiv paper](https://arxiv.org/pdf/2011.09530.pdf) leveraging token relationships to learn neural-symbolic video captioning generation!<br/>
