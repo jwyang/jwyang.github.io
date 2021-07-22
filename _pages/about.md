@@ -15,7 +15,8 @@ Prior to joining Microsoft at March 2020, I earned my Ph.D. in Computer Science 
 **If you are interested in working with me as a research intern, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
-  <img src="/images/dart.png" width="2.5%"/> \[07/2021\] We are releasing [Focal Transformer](https://arxiv.org/pdf/2107.00641.pdf), achieving new SoTA on COCO object detection, instance segmentation and ADE20K semantic segmentation!<br/>
+  <img src="/images/dart.png" width="2.5%"/> \[07/2021\] Four papers are accepted to ICCV 2021! Congratulations to all authors!<br/>
+<img src="/images/dart.png" width="2.5%"/> \[07/2021\] We are releasing [Focal Transformer](https://arxiv.org/pdf/2107.00641.pdf), achieving new SoTA on COCO object detection, instance segmentation and ADE20K semantic segmentation!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[06/2021\] We are releasing [EsViT](https://arxiv.org/pdf/2106.09785.pdf), a much more efficient self-supervised learning pipeline reaching new SoTA on ImageNet-1k linear probe!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[04/2021\] We are introducing [Vision Longformer](https://arxiv.org/pdf/2103.15358.pdf) which is an advanced version of vision transformer that achieves significant improvements on image classification, object detection comparing with ResNet and PVT!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[01/2021\] We show in our [arXiv paper](https://arxiv.org/pdf/2101.00529.pdf) that vision feature matters significantly for vision-language tasks!<br/>
