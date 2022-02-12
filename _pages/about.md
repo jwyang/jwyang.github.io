@@ -15,7 +15,8 @@ Prior to joining Microsoft at March 2020, I earned my Ph.D. in Computer Science 
 **If you are interested in working with me as a research intern, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
-  <img src="/images/dart.png" width="2.5%"/> \[09/2021\] Our Focal Transformer is accepted to NeurIPS 2021 as Spotlight!<br/>
+  <img src="/images/dart.png" width="2.5%"/> \[09/2021\] Gave a talk on [Vision Transformers for supervised/self-supervised Learning](https://youtu.be/fk-6JdRjLPw)<br/>
+<img src="/images/dart.png" width="2.5%"/> \[09/2021\] Our Focal Transformer is accepted to NeurIPS 2021 as Spotlight!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[08/2021\] We released code for Focal Transformers [here](https://github.com/microsoft/Focal-Transformer)!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[07/2021\] Four papers are accepted to ICCV 2021! Congratulations to all authors!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[07/2021\] We are releasing [Focal Transformer](https://arxiv.org/pdf/2107.00641.pdf), achieving new SoTA on COCO object detection, instance segmentation and ADE20K semantic segmentation!<br/>
