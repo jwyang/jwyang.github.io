@@ -15,7 +15,7 @@ Prior to joining Microsoft at March 2020, I earned my Ph.D. in Computer Science 
 **If you are interested in working with me as a research intern, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
-  <img src="/images/dart.png" width="2.5%"/> \[06/2022\] We are releasing the [code](https://github.com/microsoft/RegionCLIP) for our CVPR 2022 paper RegionCLIP [paper](https://arxiv.org/abs/2112.09106), and also a [live demo](https://huggingface.co/spaces/CVPR/regionclip-demo) on huggingface!<br/>
+  <img src="/images/dart.png" width="2.5%"/> \[06/2022\] We are releasing the [code](https://github.com/microsoft/RegionCLIP) for our CVPR 2022 paper [RegionCLIP](https://arxiv.org/abs/2112.09106), and also a [live demo](https://huggingface.co/spaces/CVPR/regionclip-demo) on huggingface!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[04/2022\] We are releasing our CVPR 2022 paper UniCL [paper](https://arxiv.org/abs/2204.03610) [code](https://github.com/microsoft/UniCL) - a unified contrastive learning paradigm to learn discriminative and semantic-rich representations from image-label AND image-text data seamlessly!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[03/2022\] We are releasing FocalNet [paper](https://arxiv.org/abs/2203.11926) [code](https://github.com/microsoft/FocalNet) - a simple, effective and attention-free architecture for vision!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/>
