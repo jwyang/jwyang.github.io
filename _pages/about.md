@@ -20,6 +20,7 @@ My current main research focuses:
 **If you are interested in working with me as a research intern on the above two topics, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
+  <img src="/images/dart.png" width="2.5%"/> \[10/2022\] We scaled up our FocalNets to huge size, and achieved new SoTA on COCO object detection: 64.2 on minival and 64.3 on test-dev! Check out our [new version](https://github.com/jwyang/jwyang.github.io/blob/master/files/FocalNet_NeurIPS2022_extension.pdf)!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[09/2022\] Two papers got accepted by NeurIPS 2022, see you in New Orleans, AGAIN!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[09/2022\] We are organizing [CV in the Wild Workshop and Challange](https://computer-vision-in-the-wild.github.io/eccv-2022/), submit your paper and method!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[06/2022\] We are releasing the [code](https://github.com/microsoft/RegionCLIP) for our CVPR 2022 paper [RegionCLIP](https://arxiv.org/abs/2112.09106), and also a [live demo](https://huggingface.co/spaces/CVPR/regionclip-demo) on huggingface!<br/>
