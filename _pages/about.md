@@ -34,6 +34,7 @@ My current main research focuses:
 <style>
 table, td, th, tr {
    border: none!important;
+   font-size: 14px;
 }
 </style>
 
