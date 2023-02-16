@@ -58,7 +58,6 @@ table, td, th, tr {
   </div>  
 </td>
 </tr>
-
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/florence-teaser.png" height="100%" width="100%" style="border-style: none">
@@ -96,10 +95,8 @@ table, td, th, tr {
     <a href="https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/focalnets-focusing-the-eyes-with-focal-modulation/">[blog]</a>
     <a href="https://huggingface.co/spaces/jw2yang/focalnet-modulators">[huggingface demo]</a>
   </div>  
-  <p></p>
 </td>
 </tr>
-
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/klite-teaser.png" height="100%" width="100%" style="border-style: none">
@@ -114,10 +111,8 @@ table, td, th, tr {
     <a href="https://arxiv.org/pdf/2204.09222.pdf">[paper]</a>
     <a href="https://github.com/microsoft/klite">[code]</a>
   </div>  
-  <p></p>
 </td>
 </tr>
-
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/glip-teaser.png" height="100%" width="100%" style="border-style: none">
@@ -133,10 +128,8 @@ table, td, th, tr {
     <a href="https://github.com/microsoft/GLIP">[code]</a>
     <a href="https://huggingface.co/spaces/haotiz/glip-zeroshot-demo">[huggingface demo]</a>
   </div>  
-  <p></p>
 </td>
 </tr>
-
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/regionclip-teaser.png" height="100%" width="100%" style="border-style: none">
@@ -152,10 +145,8 @@ table, td, th, tr {
     <a href="https://github.com/microsoft/RegionCLIP">[code]</a>
     <a href="https://huggingface.co/spaces/CVPR/regionclip-demo">[huggingface demo]</a>
   </div>  
-  <p></p>
 </td>
 </tr>
-
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/unicl-teaser.png" height="100%" width="100%" style="border-style: none">
@@ -171,10 +162,8 @@ table, td, th, tr {
     <a href="https://github.com/microsoft/UniCL">[code]</a>
     <a href="https://huggingface.co/spaces/CVPR/unicl-zero-shot-img-recog">[huggingface demo]</a>
   </div>  
-  <p></p>
 </td>
 </tr>
-
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/esvit-teaser.png" height="100%" width="100%" style="border-style: none">
@@ -189,10 +178,8 @@ table, td, th, tr {
     <a href="https://arxiv.org/pdf/2106.09785.pdf">[paper]</a>
     <a href="https://github.com/microsoft/esvit">[code]</a>
   </div>  
-  <p></p>
 </td>
 </tr>
-
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/focal-transformer-teaser.png" height="100%" width="100%" style="border-style: none">
@@ -208,10 +195,8 @@ table, td, th, tr {
     <a href="https://github.com/microsoft/Focal-Transformer">[code]</a>
     <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjzk6Wm8NHyAhVCqlsKHYepD9wQtwJ6BAgDEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYH319yyeoVw&usg=AOvVaw27s7EE-txctmc6_BwKnnfE">[video]</a>
   </div>  
-  <p></p>
 </td>
 </tr>
-
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/taco-teaser.png" height="100%" width="100%" style="border-style: none">
@@ -225,7 +210,6 @@ table, td, th, tr {
   <div>
     <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_TACo_Token-Aware_Cascade_Contrastive_Learning_for_Video-Text_Alignment_ICCV_2021_paper.pdf">[paper]</a>
   </div>  
-  <p></p>
 </td>
 </tr>
 </table>
