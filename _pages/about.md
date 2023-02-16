@@ -32,7 +32,7 @@ My current main research focuses:
   <img src="/images/dart.png" width="2.5%"/> \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/> -->
 
 <style>
-td, th, tr {
+table, td, th, tr {
    border: none!important;
 }
 </style>
