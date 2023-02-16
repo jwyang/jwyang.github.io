@@ -26,13 +26,13 @@ My current main research focuses:
 <img src="/images/dart.png" width="2.5%"/> \[10/2022\] We scaled up our FocalNets to huge size, and achieved new SoTA on COCO object detection! [64.2 on minival](https://paperswithcode.com/sota/object-detection-on-coco-minival) and [64.3 on test-dev](https://paperswithcode.com/sota/object-detection-on-coco)! Check out our [new version](https://arxiv.org/abs/2203.11926) and [code](https://github.com/microsoft/FocalNet)!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[09/2022\] Two papers got accepted by NeurIPS 2022, see you in New Orleans, AGAIN!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[09/2022\] We are organizing [CV in the Wild Workshop and Challange](https://computer-vision-in-the-wild.github.io/eccv-2022/), submit your paper and method!<br/>
-  <img src="/images/dart.png" width="2.5%"/> \[06/2022\] We are releasing the [code](https://github.com/microsoft/RegionCLIP) for our CVPR 2022 paper [RegionCLIP](https://arxiv.org/abs/2112.09106), and also a [live demo](https://huggingface.co/spaces/CVPR/regionclip-demo) on huggingface!<br/>
+  <!-- <img src="/images/dart.png" width="2.5%"/> \[06/2022\] We are releasing the [code](https://github.com/microsoft/RegionCLIP) for our CVPR 2022 paper [RegionCLIP](https://arxiv.org/abs/2112.09106), and also a [live demo](https://huggingface.co/spaces/CVPR/regionclip-demo) on huggingface!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[04/2022\] We are releasing our CVPR 2022 paper UniCL [paper](https://arxiv.org/abs/2204.03610) [code](https://github.com/microsoft/UniCL) [demo](https://huggingface.co/spaces/CVPR/unicl-zero-shot-img-recog) - a unified contrastive learning paradigm to learn discriminative and semantic-rich representations from image-label AND image-text data seamlessly!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[03/2022\] We are releasing FocalNet [paper](https://arxiv.org/abs/2203.11926) [code](https://github.com/microsoft/FocalNet) - a simple, effective and attention-free architecture for vision!<br/>
-  <img src="/images/dart.png" width="2.5%"/> \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/>
+  <img src="/images/dart.png" width="2.5%"/> \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/> -->
 
 <style>
-td, th {
+td, th, tr {
    border: none!important;
 }
 </style>
@@ -40,10 +40,10 @@ td, th {
 <h2><span>Selected Preprints</span></h2>
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/x-decoder-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Generalized Decoding for Pixel, Image, and Language.</h3>
   Xueyan Zou*, Zi-Yi Dou*, <b>Jianwei Yang</b>*, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee☨, Jianfeng Gao☨.
   <br>
@@ -59,10 +59,10 @@ td, th {
 </tr>
 
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/florence-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Florence: A new foundation model for computer vision.</h3>
   Lu Yuan*, Dongdong Chen, Yi-Ling Chen, Noel Codella, Xiyang Dai, Jianfeng Gao, Houdong Hu, Xuedong Huang, Boxin Li, Chunyuan Li, Ce Liu, Mengchen Liu, Zicheng Liu, Yumao Lu, Yu Shi, Lijuan Wang, Jianfeng Wang, Bin Xiao, Zhen Xiao, <b>Jianwei Yang</b>, Michael Zeng, Luowei Zhou, Pengchuan Zhang. (Team member in alphabetic order)
   <br>
@@ -80,10 +80,10 @@ td, th {
 <h2><span>Selected Publications</span></h2>
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/focalnet-teaser.gif" height="100%" width="100%"  style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Focal Modulation Networks.</h3>
   <b>Jianwei Yang</b>, Chunyuan Li, Xiyang Dai, Lu Yuan and Jianfeng Gao.
   <br>
@@ -100,10 +100,10 @@ td, th {
 </tr>
 
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/klite-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>K-lite: Learning transferable visual models with external knowledge.</h3>
   Sheng Shen*, Chunyuan Li*, Xiaowei Hu, Yujia Xie, <b>Jianwei Yang</b>, Pengchuan Zhang, Anna Rohrbach, Zhe Gan, Lijuan Wang, Lu Yuan, Ce Liu, Kurt Keutzer, Trevor Darrell, Jianfeng Gao.
   <br>
@@ -118,10 +118,10 @@ td, th {
 </tr>
 
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/glip-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Grounded language-image pre-training.</h3>
   Liunian Harold Li*, Pengchuan Zhang*, Haotian Zhang*, <b>Jianwei Yang</b>, Chunyuan Li, Yiwu Zhong, Lijuan Wang, Lu Yuan, Lei Zhang, Jenq-Neng Hwang, Kai-Wei Chang, Jianfeng Gao.
   <br>
@@ -137,10 +137,10 @@ td, th {
 </tr>
 
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/regionclip-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Regionclip: Region-based language-image pretraining</h3>
   Yiwu Zhong, <b>Jianwei Yang</b>, Pengchuan Zhang, Chunyuan Li, Noel Codella, Liunian Harold Li, Luowei Zhou, Xiyang Dai, Lu Yuan, Yin Li, Jianfeng Gao.
   <br>
@@ -156,10 +156,10 @@ td, th {
 </tr>
 
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/unicl-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Unified contrastive learning in image-text-label space.</h3>
   <b>Jianwei Yang</b>, Chunyuan Li, Pengchuan Zhang, Bin Xiao, Ce Liu, Lu Yuan, Jianfeng Gao.
   <br>
@@ -175,10 +175,10 @@ td, th {
 </tr>
 
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/esvit-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Efficient self-supervised vision transformers for representation learning.</h3>
   Chunyuan Li, <b>Jianwei Yang</b>, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao.
   <br>
@@ -193,10 +193,10 @@ td, th {
 </tr>
 
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/focal-transformer-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Focal attention for long-range interactions in vision transformers.</h3>
   <b>Jianwei Yang</b>, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianfeng Gao.
   <br>
@@ -212,10 +212,10 @@ td, th {
 </tr>
 
 <tr>
-<td style="padding:20px;width:20%;vertical-align:middle">
+<td style="padding:20px;width:30%;vertical-align:middle">
   <img src="../images/taco-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
-<td style="padding:20px;width:80%;vertical-align:middle">  
+<td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Taco: Token-aware cascade contrastive learning for video-text alignment.</h3>
   <b>Jianwei Yang</b>, Yonatan Bisk, Jianfeng Gao.
   <br>
