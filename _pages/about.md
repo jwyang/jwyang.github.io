@@ -32,8 +32,8 @@ My current main research focuses:
   <img src="/images/dart.png" width="2.5%"/> \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/>
 
 
-<h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">Selected Preprints</span></h2>
-<table class="tb">
+<h2><span>Selected Preprints</span></h2>
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
   <img src="../images/x-decoder-teaser.png" height="130" width="220" style="border-style: none">
@@ -72,8 +72,8 @@ My current main research focuses:
 </tr>
 </table>
 
-<h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">Selected Publications</span></h2>
-<table class="tb">
+<h2><span>Selected Publications</span></h2>
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
   <img src="../images/focalnet-teaser.gif" height="130" width="220" style="border-style: none">
