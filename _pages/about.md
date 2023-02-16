@@ -105,7 +105,7 @@ table, td, th, tr {
   <h3>K-lite: Learning transferable visual models with external knowledge.</h3>
   Sheng Shen*, Chunyuan Li*, Xiaowei Hu, Yujia Xie, <b>Jianwei Yang</b>, Pengchuan Zhang, Anna Rohrbach, Zhe Gan, Lijuan Wang, Lu Yuan, Ce Liu, Kurt Keutzer, Trevor Darrell, Jianfeng Gao.
   <br>
-  <em>NeurIPS</em>, 2022
+  <em>NeurIPS</em>, 2022. <span style="color:red">Oral</span>
   <br>
   <div>
     <a href="https://arxiv.org/pdf/2204.09222.pdf">[paper]</a>
@@ -121,7 +121,7 @@ table, td, th, tr {
   <h3>Grounded language-image pre-training.</h3>
   Liunian Harold Li*, Pengchuan Zhang*, Haotian Zhang*, <b>Jianwei Yang</b>, Chunyuan Li, Yiwu Zhong, Lijuan Wang, Lu Yuan, Lei Zhang, Jenq-Neng Hwang, Kai-Wei Chang, Jianfeng Gao.
   <br>
-  <em>CVPR</em>, 2022. Oral, Best Paper Final list.
+  <em>CVPR</em>, 2022. <span style="color:red">Best Paper Final list</span>
   <br>
   <div>
     <a href="http://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf">[paper]</a>
@@ -188,7 +188,7 @@ table, td, th, tr {
   <h3>Focal attention for long-range interactions in vision transformers.</h3>
   <b>Jianwei Yang</b>, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianfeng Gao.
   <br>
-  <em>NeurIPS</em>, 2021, Spotlight.
+  <em>NeurIPS</em>, 2021, <span style="color:red">Spotlight</span>.
   <br>
   <div>
     <a href="https://proceedings.neurips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf">[paper]</a>
