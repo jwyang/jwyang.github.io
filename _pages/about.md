@@ -31,12 +31,17 @@ My current main research focuses:
 <img src="/images/dart.png" width="2.5%"/> \[03/2022\] We are releasing FocalNet [paper](https://arxiv.org/abs/2203.11926) [code](https://github.com/microsoft/FocalNet) - a simple, effective and attention-free architecture for vision!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/>
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 <h2><span>Selected Preprints</span></h2>
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/x-decoder-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/x-decoder-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Generalized Decoding for Pixel, Image, and Language.</h3>
@@ -55,7 +60,7 @@ My current main research focuses:
 
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/florence-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/florence-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Florence: A new foundation model for computer vision.</h3>
@@ -76,7 +81,7 @@ My current main research focuses:
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/focalnet-teaser.gif" height="130" width="220" style="border-style: none">
+  <img src="../images/focalnet-teaser.gif" height="100%" width="100%"  style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Focal Modulation Networks.</h3>
@@ -96,7 +101,7 @@ My current main research focuses:
 
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/klite-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/klite-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>K-lite: Learning transferable visual models with external knowledge.</h3>
@@ -114,7 +119,7 @@ My current main research focuses:
 
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/glip-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/glip-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Grounded language-image pre-training.</h3>
@@ -133,7 +138,7 @@ My current main research focuses:
 
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/regionclip-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/regionclip-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Regionclip: Region-based language-image pretraining</h3>
@@ -152,7 +157,7 @@ My current main research focuses:
 
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/unicl-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/unicl-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Unified contrastive learning in image-text-label space.</h3>
@@ -171,7 +176,7 @@ My current main research focuses:
 
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/esvit-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/esvit-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Efficient self-supervised vision transformers for representation learning.</h3>
@@ -189,7 +194,7 @@ My current main research focuses:
 
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/focal-transformer-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/focal-transformer-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Focal attention for long-range interactions in vision transformers.</h3>
@@ -208,7 +213,7 @@ My current main research focuses:
 
 <tr>
 <td style="padding:20px;width:20%;vertical-align:middle">
-  <img src="../images/taco-teaser.png" height="130" width="220" style="border-style: none">
+  <img src="../images/taco-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:80%;vertical-align:middle">  
   <h3>Taco: Token-aware cascade contrastive learning for video-text alignment.</h3>
