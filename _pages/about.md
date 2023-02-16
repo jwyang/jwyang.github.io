@@ -30,3 +30,196 @@ My current main research focuses:
   <img src="/images/dart.png" width="2.5%"/> \[04/2022\] We are releasing our CVPR 2022 paper UniCL [paper](https://arxiv.org/abs/2204.03610) [code](https://github.com/microsoft/UniCL) [demo](https://huggingface.co/spaces/CVPR/unicl-zero-shot-img-recog) - a unified contrastive learning paradigm to learn discriminative and semantic-rich representations from image-label AND image-text data seamlessly!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[03/2022\] We are releasing FocalNet [paper](https://arxiv.org/abs/2203.11926) [code](https://github.com/microsoft/FocalNet) - a simple, effective and attention-free architecture for vision!<br/>
   <img src="/images/dart.png" width="2.5%"/> \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/>
+
+
+<h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">Selected Preprints</span></h2>
+<table class="tb">
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/x-decoder-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Generalized Decoding for Pixel, Image, and Language.</h3>
+  Xueyan Zou*, Zi-Yi Dou*, <b>Jianwei Yang</b>*, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee☨, Jianfeng Gao☨.
+  <br>
+  <em>arXiv</em>, 2022
+  <br>
+  <div>
+    <a href="https://x-decoder-vl.github.io/">[project]</a>
+    <a href="https://arxiv.org/pdf/2212.11270.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/X-Decoder">[code]</a>
+    <a href="https://huggingface.co/xdecoder">[huggingface demo]</a>
+  </div>  
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/florence-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Florence: A new foundation model for computer vision.</h3>
+  Lu Yuan*, Dongdong Chen, Yi-Ling Chen, Noel Codella, Xiyang Dai, Jianfeng Gao, Houdong Hu, Xuedong Huang, Boxin Li, Chunyuan Li, Ce Liu, Mengchen Liu, Zicheng Liu, Yumao Lu, Yu Shi, Lijuan Wang, Jianfeng Wang, Bin Xiao, Zhen Xiao, <b>Jianwei Yang</b>, Michael Zeng, Luowei Zhou, Pengchuan Zhang. (Team member in alphabetic order)
+  <br>
+  <em>arXiv</em>, 2021
+  <br>
+  <div>
+    <a href="https://arxiv.org/pdf/2111.11432.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/UniCL">[research code]</a>
+    <a href="https://www.microsoft.com/en-us/research/blog/azure-ai-milestone-new-foundation-model-florence-v1-0-pushing-vision-and-vision-language-state-of-the-art/">[blog]</a>
+  </div>  
+</td>
+</tr>
+</table>
+
+<h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">Selected Publications</span></h2>
+<table class="tb">
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/focalnet-teaser.gif" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Focal Modulation Networks.</h3>
+  <b>Jianwei Yang</b>, Chunyuan Li, Xiyang Dai, Lu Yuan and Jianfeng Gao.
+  <br>
+  <em>NeurIPS</em>, 2022
+  <br>
+  <div>
+    <a href="https://arxiv.org/abs/2203.11926">[paper]</a>
+    <a href="https://github.com/microsoft/FocalNet">[code]</a>
+    <a href="https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/focalnets-focusing-the-eyes-with-focal-modulation/">[blog]</a>
+    <a href="https://huggingface.co/spaces/jw2yang/focalnet-modulators">[huggingface demo]</a>
+  </div>  
+  <p></p>
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/klite-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>K-lite: Learning transferable visual models with external knowledge.</h3>
+  Sheng Shen*, Chunyuan Li*, Xiaowei Hu, Yujia Xie, <b>Jianwei Yang</b>, Pengchuan Zhang, Anna Rohrbach, Zhe Gan, Lijuan Wang, Lu Yuan, Ce Liu, Kurt Keutzer, Trevor Darrell, Jianfeng Gao.
+  <br>
+  <em>NeurIPS</em>, 2022
+  <br>
+  <div>
+    <a href="https://arxiv.org/pdf/2204.09222.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/klite">[code]</a>
+  </div>  
+  <p></p>
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/glip-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Grounded language-image pre-training.</h3>
+  Liunian Harold Li*, Pengchuan Zhang*, Haotian Zhang*, <b>Jianwei Yang</b>, Chunyuan Li, Yiwu Zhong, Lijuan Wang, Lu Yuan, Lei Zhang, Jenq-Neng Hwang, Kai-Wei Chang, Jianfeng Gao.
+  <br>
+  <em>CVPR</em>, 2022. Oral, Best Paper Final list.
+  <br>
+  <div>
+    <a href="http://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/GLIP">[code]</a>
+    <a href="https://huggingface.co/spaces/haotiz/glip-zeroshot-demo">[huggingface demo]</a>
+  </div>  
+  <p></p>
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/regionclip-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Regionclip: Region-based language-image pretraining</h3>
+  Yiwu Zhong, <b>Jianwei Yang</b>, Pengchuan Zhang, Chunyuan Li, Noel Codella, Liunian Harold Li, Luowei Zhou, Xiyang Dai, Lu Yuan, Yin Li, Jianfeng Gao.
+  <br>
+  <em>CVPR</em>, 2022
+  <br>
+  <div>
+    <a href="http://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_RegionCLIP_Region-Based_Language-Image_Pretraining_CVPR_2022_paper.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/RegionCLIP">[code]</a>
+    <a href="https://huggingface.co/spaces/CVPR/regionclip-demo">[huggingface demo]</a>
+  </div>  
+  <p></p>
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/unicl-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Unified contrastive learning in image-text-label space.</h3>
+  <b>Jianwei Yang</b>, Chunyuan Li, Pengchuan Zhang, Bin Xiao, Ce Liu, Lu Yuan, Jianfeng Gao.
+  <br>
+  <em>CVPR</em>, 2022
+  <br>
+  <div>
+    <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Unified_Contrastive_Learning_in_Image-Text-Label_Space_CVPR_2022_paper.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/UniCL">[code]</a>
+    <a href="https://huggingface.co/spaces/CVPR/unicl-zero-shot-img-recog">[huggingface demo]</a>
+  </div>  
+  <p></p>
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/esvit-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Efficient self-supervised vision transformers for representation learning.</h3>
+  Chunyuan Li, <b>Jianwei Yang</b>, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, Lu Yuan, Jianfeng Gao.
+  <br>
+  <em>ICLR</em>, 2022
+  <br>
+  <div>
+    <a href="https://arxiv.org/pdf/2106.09785.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/esvit">[code]</a>
+  </div>  
+  <p></p>
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/focal-transformer-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Focal attention for long-range interactions in vision transformers.</h3>
+  <b>Jianwei Yang</b>, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianfeng Gao.
+  <br>
+  <em>NeurIPS</em>, 2021, Spotlight.
+  <br>
+  <div>
+    <a href="https://proceedings.neurips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/Focal-Transformer">[code]</a>
+    <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjzk6Wm8NHyAhVCqlsKHYepD9wQtwJ6BAgDEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYH319yyeoVw&usg=AOvVaw27s7EE-txctmc6_BwKnnfE">[video]</a>
+  </div>  
+  <p></p>
+</td>
+</tr>
+
+<tr>
+<td style="padding:20px;width:20%;vertical-align:middle">
+  <img src="../images/taco-teaser.png" height="130" width="220" style="border-style: none">
+</td>
+<td style="padding:20px;width:80%;vertical-align:middle">  
+  <h3>Taco: Token-aware cascade contrastive learning for video-text alignment.</h3>
+  <b>Jianwei Yang</b>, Yonatan Bisk, Jianfeng Gao.
+  <br>
+  <em>ICCV</em>, 2021
+  <br>
+  <div>
+    <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_TACo_Token-Aware_Cascade_Contrastive_Learning_for_Video-Text_Alignment_ICCV_2021_paper.pdf">[paper]</a>
+  </div>  
+  <p></p>
+</td>
+</tr>
+</table>
