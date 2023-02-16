@@ -81,7 +81,7 @@ table, td, th, tr {
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle">
-  <img src="../images/focalnet-teaser.gif" height="100%" width="100%"  style="border-style: none">
+  <img src="../images/focalnet-teaser.png" height="100%" width="100%"  style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Focal Modulation Networks.</h3>
