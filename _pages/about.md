@@ -41,7 +41,7 @@ table, td, th, tr {
 <h2><span>Selected Preprints</span></h2>
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/x-decoder-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -59,7 +59,7 @@ table, td, th, tr {
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/florence-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -80,7 +80,7 @@ table, td, th, tr {
 <h2><span>Selected Publications</span></h2>
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/focalnet-teaser.png" height="100%" width="100%"  style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -98,7 +98,7 @@ table, td, th, tr {
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/klite-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -114,7 +114,7 @@ table, td, th, tr {
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/glip-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -131,7 +131,7 @@ table, td, th, tr {
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/regionclip-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -148,7 +148,7 @@ table, td, th, tr {
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/unicl-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -165,7 +165,7 @@ table, td, th, tr {
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/esvit-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -181,7 +181,7 @@ table, td, th, tr {
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/focal-transformer-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -198,7 +198,7 @@ table, td, th, tr {
 </td>
 </tr>
 <tr>
-<td style="padding:20px;width:30%;vertical-align:middle">
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/taco-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
