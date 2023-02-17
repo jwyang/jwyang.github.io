@@ -153,7 +153,7 @@ table, td, th, tr {
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Unified contrastive learning in image-text-label space.</h3>
-  <b>Jianwei Yang</b>, Chunyuan Li, Pengchuan Zhang, Bin Xiao, Ce Liu, Lu Yuan, Jianfeng Gao.
+  <b>Jianwei Yang</b>*, Chunyuan Li*, Pengchuan Zhang*, Bin Xiao*, Ce Liu, Lu Yuan, Jianfeng Gao.
   <br>
   <em>CVPR</em>, 2022
   <br>
