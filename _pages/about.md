@@ -20,6 +20,7 @@ My current main research focuses:
 **If you are interested in working with me as a research intern on the above two topics, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
+<img src="/images/dart.png" width="2.5%"/> \[03/2023\] We are releasing [X-GPT]([https://iccv2023.thecvf.com/](https://github.com/microsoft/X-Decoder/tree/xgpt)) to connect X-Decoder with GPT for conversational AI!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[03/2023\] We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)! Welcome to [submit your work](https://cmt3.research.microsoft.com/CVinW2023) and/or participate the [ICinW](https://eval.ai/web/challenges/challenge-page/1832/overview), [ODinW](https://eval.ai/web/challenges/challenge-page/1839/overview) and [SGinW](https://eval.ai/web/challenges/challenge-page/1931/overview) Challenges!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[12/2022\] We released [X-Decoder](https://x-decoder-vl.github.io/), a generalist model for decoding pixel-level masks and token-level semantics seamlessly, achieving state-of-the-art open-vocab segmentation on 8 datasets, referring segmentation on RefCOCOg+ and instance/panoptic segmentation on ADE-20K!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[12/2022\] Serving as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
