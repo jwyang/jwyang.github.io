@@ -44,24 +44,6 @@ table, td, th, tr {
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/x-decoder-teaser.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Generalized Decoding for Pixel, Image, and Language.</h3>
-  Xueyan Zou*, Zi-Yi Dou*, <b>Jianwei Yang</b>*, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee☨, Jianfeng Gao☨.
-  <br>
-  <em>arXiv</em>, 2022
-  <br>
-  <div>
-    <a href="https://x-decoder-vl.github.io/">[project]</a>
-    <a href="https://arxiv.org/pdf/2212.11270.pdf">[paper]</a>
-    <a href="https://github.com/microsoft/X-Decoder">[code]</a>
-    <a href="https://huggingface.co/xdecoder">[huggingface demo]</a>
-  </div>  
-</td>
-</tr>
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/florence-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -81,6 +63,24 @@ table, td, th, tr {
 
 <h2><span>Selected Publications</span></h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/x-decoder-teaser.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Generalized Decoding for Pixel, Image, and Language.</h3>
+  Xueyan Zou*, Zi-Yi Dou*, <b>Jianwei Yang</b>*, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee☨, Jianfeng Gao☨.
+  <br>
+  <em>CVPR</em>, 2023
+  <br>
+  <div>
+    <a href="https://x-decoder-vl.github.io/">[project]</a>
+    <a href="https://arxiv.org/pdf/2212.11270.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/X-Decoder">[code]</a>
+    <a href="https://huggingface.co/xdecoder">[huggingface demo]</a>
+  </div>  
+</td>
+</tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/focalnet-teaser.png" height="100%" width="100%"  style="border-style: none">
