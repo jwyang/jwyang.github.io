@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a senior researcher in [Deep Learning Group](https://www.microsoft.com/en-us/research/group/deep-learning-group/) at Microsoft Research, Redmond, directed by [Dr. Jianfeng Gao](http://research.microsoft.com/en-us/um/people/jfgao/). My research interests span in computer vision, vision & language and machine learning. More specifically, my primary researches are about structured visual understanding at different levels and how to further leverage them for intelligent interactions with human through language and environment through embodiment. I believe, by integrating fine-grained structured information, we can achieve better yet interpretable, grounded and robust multi-modality intelligent agent.
+Hi, I am a senior researcher in [Deep Learning Group](https://www.microsoft.com/en-us/research/group/deep-learning-group/) at Microsoft Research, Redmond, directed by [Dr. Jianfeng Gao](http://research.microsoft.com/en-us/um/people/jfgao/). My research interests span in computer vision, vision & language and machine learning. More specifically, my primary researches are about structured visual understanding at different levels and how to further leverage them for intelligent interactions with human through language and environment through embodiment. I believe, by integrating fine-grained structured information, we can achieve better yet interpretable, grounded and robust multi-modality intelligent agents.
 
 Prior to joining Microsoft at March 2020, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu) with thesis "Structured Visual Understanding, Generation and Reasoning". I was fortunate to be supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
 
@@ -20,6 +20,8 @@ My current main research focuses:
 **If you are interested in working with me as a research intern on the above two topics, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
+<img src="/images/dart.png" width="2.5%"/> \[07/2023\] We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/>
+<img src="/images/dart.png" width="2.5%"/> \[04/2023\] We introduce [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) that can Segment Everything Everywhere with Multi-modal prompts all at once!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[03/2023\] We are releasing [X-GPT](https://github.com/microsoft/X-Decoder) to connect X-Decoder with GPT for conversational AI!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[03/2023\] We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)! Welcome to [submit your work](https://cmt3.research.microsoft.com/CVinW2023) and/or participate the [ICinW](https://eval.ai/web/challenges/challenge-page/1832/overview), [ODinW](https://eval.ai/web/challenges/challenge-page/1839/overview) and [SGinW](https://eval.ai/web/challenges/challenge-page/1931/overview) Challenges!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[12/2022\] We released [X-Decoder](https://x-decoder-vl.github.io/), a generalist model for decoding pixel-level masks and token-level semantics seamlessly, achieving state-of-the-art open-vocab segmentation on 8 datasets, referring segmentation on RefCOCOg+ and instance/panoptic segmentation on ADE-20K!<br/>
@@ -44,11 +46,43 @@ table, td, th, tr {
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="https://user-images.githubusercontent.com/11957155/252524622-769a0c28-bcdf-42ac-b418-17961c1f2430.jpg" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Semantic-SAM: Segment and Recognize Anything at Any Granularity.</h3>
+  Feng Li*, Hao Zhang*, Peize Sun, Xueyan Zou, Shilong Liu, <b>Jianwei Yang</b>^, Chunyuan Li, Lei Zhang☨, Jianfeng Gao☨.
+  <br>
+  <em>arXiv</em>, 2023
+  <br>
+  <div>
+    <a href="https://arxiv.org/pdf/2307.04767.pdf">[paper]</a>
+    <a href="https://github.com/UX-Decoder/Semantic-SAM">[code]</a>
+  </div>  
+</td>
+</tr>  
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/blob/main/assets/teaser_new.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Segment Everything Everywhere all at Once.</h3>
+  Xueyan Zou*, <b>Jianwei Yang</b>*^, Hao Zhang*, Feng Li*, Linjie Li, Jianfeng Wang, Lijuan Wang, Jianfeng Gao☨, Yong Jae Lee☨.
+  <br>
+  <em>arXiv</em>, 2023
+  <br>
+  <div>
+    <a href="https://arxiv.org/pdf/2304.06718.pdf">[paper]</a>
+    <a href="https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once">[code]</a>
+  </div>  
+</td>
+</tr>  
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/florence-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Florence: A new foundation model for computer vision.</h3>
-  Lu Yuan*, Dongdong Chen, Yi-Ling Chen, Noel Codella, Xiyang Dai, Jianfeng Gao, Houdong Hu, Xuedong Huang, Boxin Li, Chunyuan Li, Ce Liu, Mengchen Liu, Zicheng Liu, Yumao Lu, Yu Shi, Lijuan Wang, Jianfeng Wang, Bin Xiao, Zhen Xiao, <b>Jianwei Yang</b>, Michael Zeng, Luowei Zhou, Pengchuan Zhang. (Team member in alphabetic order)
+  Lu Yuan*, Dongdong Chen, Yi-Ling Chen, Noel Codella, Xiyang Dai, Jianfeng Gao, Houdong Hu, Xuedong Huang, Boxin Li, Chunyuan Li, Ce Liu, Mengchen Liu, Zicheng Liu, Yumao Lu, Yu Shi, Lijuan Wang, Jianfeng Wang, Bin Xiao, Zhen Xiao, <b>Jianwei Yang</b>, Michael Zeng, Luowei Zhou, Pengchuan Zhang. (Team members in alphabetic order)
   <br>
   <em>arXiv</em>, 2021
   <br>
@@ -58,11 +92,29 @@ table, td, th, tr {
     <a href="https://www.microsoft.com/en-us/research/blog/azure-ai-milestone-new-foundation-model-florence-v1-0-pushing-vision-and-vision-language-state-of-the-art/">[blog]</a>
   </div>  
 </td>
-</tr>
+</tr>  
 </table>
 
 <h2><span>Selected Publications</span></h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="https://github.com/IDEA-Research/OpenSeeD/blob/main/figs/framework.jpg" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>A Simple Framework for Open-Vocabulary Segmentation and Detection.</h3>
+  Hao Zhang*, Feng Li*, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, <b>Jianwei Yang</b>☨, Lei Zhang☨.
+  <br>
+  <em>ICCV</em>, 2023
+  <br>
+  <div>
+    <a href="https://x-decoder-vl.github.io/">[project]</a>
+    <a href="https://arxiv.org/pdf/2212.11270.pdf">[paper]</a>
+    <a href="https://github.com/microsoft/X-Decoder">[code]</a>
+    <a href="https://huggingface.co/xdecoder">[huggingface demo]</a>
+  </div>  
+</td>
+</tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/x-decoder-teaser.png" height="100%" width="100%" style="border-style: none">
