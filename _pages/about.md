@@ -62,7 +62,7 @@ table, td, th, tr {
 </tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/blob/main/assets/teaser_new.png" height="100%" width="100%" style="border-style: none">
+  <img src="../images/seem_teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Segment Everything Everywhere all at Once.</h3>
@@ -99,7 +99,7 @@ table, td, th, tr {
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="https://github.com/IDEA-Research/OpenSeeD/blob/main/figs/framework.jpg" height="100%" width="100%" style="border-style: none">
+  <img src="../images/openseed_framework.jpg" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>A Simple Framework for Open-Vocabulary Segmentation and Detection.</h3>
