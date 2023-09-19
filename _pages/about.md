@@ -12,12 +12,9 @@ Hi, I am a principal researcher in [Deep Learning Group](https://www.microsoft.c
 
 Prior to joining Microsoft at March 2020, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu) with thesis "Structured Visual Understanding, Generation and Reasoning". I was fortunate to be supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
 
-My current main research focuses:
+My current research is particularly focused on building **generalist multi-modal foundations towards AGI**. Our team is the first few in this line of research, and have produced a series of works, like [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), [KLITE](https://arxiv.org/abs/2204.09222), and the foundation model [Florence](https://arxiv.org/abs/2111.11432) and generalist decoder [X-Decoder](https://x-decoder-vl.github.io/).
 
-* **Developing effective and efficient architectures for encoding different modalities of inputs, particularly vision**. Along this direction, we have developed a series of vision encoders, such as [Vision Longformer](https://arxiv.org/abs/2103.15358), [Focal Transformer](https://arxiv.org/abs/2107.00641) and [FocalNets](https://arxiv.org/abs/2203.11926).
-* **Building generalist multi-modal learning paradigm for the computer vision in the wild, and further for embodiment or robotics**. We are the first few teams in this line of research, and have produced a series of works, like [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), [KLITE](https://arxiv.org/abs/2204.09222), and the foundation model [Florence](https://arxiv.org/abs/2111.11432) and generalist decoder [X-Decoder](https://x-decoder-vl.github.io/).
-
-**If you are interested in working with me as a research intern on the above two topics, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
+**If you are interested in working with me to build next-generation multi-modal foundation models, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
 <img src="/images/dart.png" width="2.5%"/> \[07/2023\] We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/>
