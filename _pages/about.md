@@ -17,6 +17,8 @@ My current research is particularly focused on building **generalist multi-modal
 **If you are interested in working with me to build next-generation multi-modal foundation models, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
+<img src="/images/dart.png" width="2.5%"/> \[09/2023\] [Segment Everything Everywhere All at Once (SEEM)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) has been accepted by NeurIPS 2023!<br/>
+<img src="/images/dart.png" width="2.5%"/> \[09/2023\] Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[07/2023\] We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[04/2023\] We introduce [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) that can Segment Everything Everywhere with Multi-modal prompts all at once!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[03/2023\] We are releasing [X-GPT](https://github.com/microsoft/X-Decoder) to connect X-Decoder with GPT for conversational AI!<br/>
@@ -59,22 +61,6 @@ table, td, th, tr {
 </tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/seem_teaser.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Segment Everything Everywhere all at Once.</h3>
-  Xueyan Zou*, <b>Jianwei Yang</b>*^, Hao Zhang*, Feng Li*, Linjie Li, Jianfeng Wang, Lijuan Wang, Jianfeng Gao☨, Yong Jae Lee☨.
-  <br>
-  <em>arXiv</em>, 2023
-  <br>
-  <div>
-    <a href="https://arxiv.org/pdf/2304.06718.pdf">[paper]</a>
-    <a href="https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once">[code]</a>
-  </div>  
-</td>
-</tr>  
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/florence-teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -94,6 +80,22 @@ table, td, th, tr {
 
 <h2><span>Selected Publications</span></h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/seem_teaser.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Segment Everything Everywhere all at Once.</h3>
+  Xueyan Zou*, <b>Jianwei Yang</b>*^, Hao Zhang*, Feng Li*, Linjie Li, Jianfeng Wang, Lijuan Wang, Jianfeng Gao☨, Yong Jae Lee☨.
+  <br>
+  <em>NeurIPS</em>, 2023
+  <br>
+  <div>
+    <a href="https://arxiv.org/pdf/2304.06718.pdf">[paper]</a>
+    <a href="https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once">[code]</a>
+  </div>  
+</td>
+</tr>    
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/openseed_framework.jpg" height="100%" width="100%" style="border-style: none">
