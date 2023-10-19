@@ -64,7 +64,7 @@ table, td, th, tr {
 </tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="https://user-images.githubusercontent.com/11957155/252524622-769a0c28-bcdf-42ac-b418-17961c1f2430.jpg" height="100%" width="100%" style="border-style: none">
+  <img src="../images/semantic-sam.jpg" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Semantic-SAM: Segment and Recognize Anything at Any Granularity.</h3>
