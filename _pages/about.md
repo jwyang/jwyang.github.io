@@ -17,7 +17,7 @@ My current research is particularly focused on building **generalist multi-modal
 **If you are interested in working with me to build next-generation multi-modal foundation models, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
-<img src="/images/dart.png" width="2.5%"/> \[10/2023\] We released Set-of-Mark (SoM) prompting to unleash the extraordinary visual grounding power in GPT-4V. Come and try our SoM toolbox!<br/>
+<img src="/images/dart.png" width="2.5%"/> \[10/2023\] We released [Set-of-Mark (SoM)](https://som-gpt4v.github.io/) prompting to unleash the extraordinary visual grounding power in GPT-4V. Come and try our SoM toolbox!<br/>
 <img src="../images/som_gpt4-v.jpg" height="100%" width="100%" style="border-style: none">
 <img src="/images/dart.png" width="2.5%"/> \[09/2023\] [Segment Everything Everywhere All at Once (SEEM)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) has been accepted by NeurIPS 2023!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[09/2023\] Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/>
@@ -45,6 +45,23 @@ table, td, th, tr {
 
 <h2><span>Selected Preprints</span></h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/som_teaser.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V.</h3>
+  <b>Jianwei Yang</b>*☨, Hao Zhang*, Feng Li*, Xueyan Zou*, Chunyuan Li, Jianfeng Gao.
+  <br>
+  <em>arXiv</em>, 2023
+  <br>
+  <div>
+    <a href="https://arxiv.org/abs/2310.11441">[paper]</a>
+    <a href="https://github.com/microsoft/SoM">[code]</a>
+    <a href="https://som-gpt4v.github.io/">[project]</a>
+  </div>  
+</td>
+</tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="https://user-images.githubusercontent.com/11957155/252524622-769a0c28-bcdf-42ac-b418-17961c1f2430.jpg" height="100%" width="100%" style="border-style: none">
