@@ -19,6 +19,7 @@ My current research is particularly focused on building **generalist multi-modal
 <h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
 <img src="/images/dart.png" width="2.5%"/> \[10/2023\] We released [Set-of-Mark (SoM)](https://som-gpt4v.github.io/) prompting to unleash the extraordinary visual grounding power in GPT-4V. Come and try our SoM toolbox!<br/>
 <img src="../images/som_gpt4-v.jpg" height="100%" width="100%" style="border-style: none">
+<img src="/images/dart.png" width="2.5%"/> \[10/2023\] We released [BiomedJourney](https://microsoft.github.io/BiomedJourney/), a novel method for counterfactual medical image generation by instruction-learning from multimodal patient journeys! Check it out!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[09/2023\] [Segment Everything Everywhere All at Once (SEEM)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) has been accepted by NeurIPS 2023!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[09/2023\] Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/>
 <img src="/images/dart.png" width="2.5%"/> \[07/2023\] We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/>
