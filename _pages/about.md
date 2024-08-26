@@ -13,7 +13,7 @@ Hi, I am a principal researcher in [Deep Learning Group](https://www.microsoft.c
 
 My current research is focused on building **generalist multi-modal agent**. Our team are the first few in this line of research, and have produced a series of works, including (a) bridging core vision tasks with language: [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), [KLITE](https://arxiv.org/abs/2204.09222), foundation model [Florence](https://arxiv.org/abs/2111.11432); (b) developing generalist decoder [X-Decoder](https://x-decoder-vl.github.io/), and (c) enabling more promptable and interactive systems like [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once), [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), [LLaVa](https://github.com/haotian-liu/LLaVA), [SoM for GPT-4V](https://som-gpt4v.github.io/), and [Phi-3-Vision](https://arxiv.org/pdf/2404.14219). I believe, further pushing forward, we can achieve performant yet interpretable, grounded and robust multi-modality intelligent agents.
 
-**If you are interested in working with me to build next-generation multi-modal foundation models, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
+**If you are interested in working with me, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
 **\[08/2024\]** Five papers accepted to [ECCV 2024](https://eccv.ecva.net/), two papers accepted to [CVPR 2024](https://cvpr.thecvf.com/) and one paper accepted to [COLM 2024](https://colmweb.org/)!<br/>
