@@ -16,16 +16,16 @@ My current research is particularly focused on building **generalist multi-modal
 
 **If you are interested in working with me to build next-generation multi-modal foundation models, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
-<h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">Research News</span></h2>
+<h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
 \[08/2024\] Five papers accepted to ECCV 2024, two papers accepted to CVPR 2024 and one paper accepted to COLM 2024!<br/>
-\[05/2024\] We announced [Phi-3-Vision](https://arxiv.org/pdf/2404.14219), a 4.2B parameter multimodal model with language and vision capabilities! ([blog](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/)[hugging face](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3))<br/>
+\[05/2024\] We announced [Phi-3-Vision](https://arxiv.org/pdf/2404.14219), a 4.2B parameter multimodal model with language and vision capabilities! \[[blog](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/)\] \[[hugging face](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3)\]<br/>
 \[10/2023\] We released [Set-of-Mark (SoM)](https://som-gpt4v.github.io/) prompting to unleash the extraordinary visual grounding power in GPT-4V. Come and try our SoM toolbox!<br/>
 <!-- \[10/2023\] We released [BiomedJourney](https://microsoft.github.io/BiomedJourney/), a novel method for counterfactual medical image generation by instruction-learning from multimodal patient journeys! Check it out!<br/> -->
 \[09/2023\] [Segment Everything Everywhere All at Once (SEEM)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) has been accepted by NeurIPS 2023!<br/>
 \[09/2023\] Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/>
 \[07/2023\] We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/>
 \[04/2023\] We introduce [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) that can Segment Everything Everywhere with Multi-modal prompts all at once!<br/>
-<!-- \[12/2022\] We released [X-Decoder](https://x-decoder-vl.github.io/), a generalist model for decoding pixel-level masks and token-level semantics seamlessly, achieving state-of-the-art open-vocab segmentation on 8 datasets, referring segmentation on RefCOCOg+ and instance/panoptic segmentation on ADE-20K!<br/> -->
+\[12/2022\] We released [X-Decoder](https://x-decoder-vl.github.io/), a generalist model for decoding pixel-level masks and token-level semantics seamlessly, achieving state-of-the-art open-vocab segmentation on 8 datasets, referring segmentation on RefCOCOg+ and instance/panoptic segmentation on ADE-20K!<br/>
 <!-- \[11/2022\] We wrote a [blog post](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/focalnets-focusing-the-eyes-with-focal-modulation/) to explain in a plain way our FocalNet and the difference from Attention in terms of mechanism, interpretability and performance.<br/> -->
 <!-- \[10/2022\] We scaled up our FocalNets to huge size, and achieved new SoTA on COCO object detection! [64.2 on minival](https://paperswithcode.com/sota/object-detection-on-coco-minival) and [64.3 on test-dev](https://paperswithcode.com/sota/object-detection-on-coco)! Check out our [new version](https://arxiv.org/abs/2203.11926) and [code](https://github.com/microsoft/FocalNet)!<br/> -->
   <!-- \[09/2022\] Two papers got accepted by NeurIPS 2022, see you in New Orleans, AGAIN!<br/> -->
