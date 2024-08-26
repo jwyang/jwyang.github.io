@@ -54,7 +54,6 @@ table, td, th, tr {
 \[12/2022\] Served as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
 
 <h2><span>Selected Preprints</span></h2>
-<table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/som_teaser.png" height="100%" width="100%" style="border-style: none">
