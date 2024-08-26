@@ -12,30 +12,28 @@ Hi, I am a principal researcher in [Deep Learning Group](https://www.microsoft.c
 
 Prior to joining Microsoft at March 2020, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu) with thesis "Structured Visual Understanding, Generation and Reasoning". I was fortunate to be supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
 
-My current research is particularly focused on building **generalist multi-modal foundations towards AGI**. Our team is the first few in this line of research, and have produced a series of works, including (a) bridging core vision tasks with language: [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), [KLITE](https://arxiv.org/abs/2204.09222), foundation model [Florence](https://arxiv.org/abs/2111.11432); (b) developing generalist decoder [X-Decoder](https://x-decoder-vl.github.io/), and (c) enabling more promptable and interactive systems like [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once), [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), [LLaVa](https://github.com/haotian-liu/LLaVA), and [SoM for GPT-4V](https://som-gpt4v.github.io/).
+My current research is particularly focused on building **generalist multi-modal foundations**. Our team is the first few in this line of research, and have produced a series of works, including (a) bridging core vision tasks with language: [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), [KLITE](https://arxiv.org/abs/2204.09222), foundation model [Florence](https://arxiv.org/abs/2111.11432); (b) developing generalist decoder [X-Decoder](https://x-decoder-vl.github.io/), and (c) enabling more promptable and interactive systems like [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once), [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), [LLaVa](https://github.com/haotian-liu/LLaVA), [SoM for GPT-4V](https://som-gpt4v.github.io/), and [Phi-3-Vision](https://arxiv.org/pdf/2404.14219).
 
 **If you are interested in working with me to build next-generation multi-modal foundation models, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
-<h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">News</span></h2>
-<img src="/images/dart.png" width="2.5%"/> \[10/2023\] We released [Set-of-Mark (SoM)](https://som-gpt4v.github.io/) prompting to unleash the extraordinary visual grounding power in GPT-4V. Come and try our SoM toolbox!<br/>
-<img src="../images/som_gpt4-v.jpg" height="100%" width="100%" style="border-style: none">
-<img src="/images/dart.png" width="2.5%"/> \[10/2023\] We released [BiomedJourney](https://microsoft.github.io/BiomedJourney/), a novel method for counterfactual medical image generation by instruction-learning from multimodal patient journeys! Check it out!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[09/2023\] [Segment Everything Everywhere All at Once (SEEM)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) has been accepted by NeurIPS 2023!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[09/2023\] Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[07/2023\] We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[04/2023\] We introduce [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) that can Segment Everything Everywhere with Multi-modal prompts all at once!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[03/2023\] We are releasing [X-GPT](https://github.com/microsoft/X-Decoder) to connect X-Decoder with GPT for conversational AI!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[03/2023\] We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)! Welcome to [submit your work](https://cmt3.research.microsoft.com/CVinW2023) and/or participate the [ICinW](https://eval.ai/web/challenges/challenge-page/1832/overview), [ODinW](https://eval.ai/web/challenges/challenge-page/1839/overview) and [SGinW](https://eval.ai/web/challenges/challenge-page/1931/overview) Challenges!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[12/2022\] We released [X-Decoder](https://x-decoder-vl.github.io/), a generalist model for decoding pixel-level masks and token-level semantics seamlessly, achieving state-of-the-art open-vocab segmentation on 8 datasets, referring segmentation on RefCOCOg+ and instance/panoptic segmentation on ADE-20K!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[12/2022\] Serving as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
-<img src="/images/dart.png" width="2.5%"/> \[11/2022\] We wrote a [blog post](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/focalnets-focusing-the-eyes-with-focal-modulation/) to explain in a plain way our FocalNet and the difference from Attention in terms of mechanism, interpretability and performance.<br/>
-<img src="/images/dart.png" width="2.5%"/> \[10/2022\] We scaled up our FocalNets to huge size, and achieved new SoTA on COCO object detection! [64.2 on minival](https://paperswithcode.com/sota/object-detection-on-coco-minival) and [64.3 on test-dev](https://paperswithcode.com/sota/object-detection-on-coco)! Check out our [new version](https://arxiv.org/abs/2203.11926) and [code](https://github.com/microsoft/FocalNet)!<br/>
-  <img src="/images/dart.png" width="2.5%"/> \[09/2022\] Two papers got accepted by NeurIPS 2022, see you in New Orleans, AGAIN!<br/>
-  <img src="/images/dart.png" width="2.5%"/> \[09/2022\] We are organizing [CV in the Wild Workshop and Challange](https://computer-vision-in-the-wild.github.io/eccv-2022/), submit your paper and method!<br/>
-  <!-- <img src="/images/dart.png" width="2.5%"/> \[06/2022\] We are releasing the [code](https://github.com/microsoft/RegionCLIP) for our CVPR 2022 paper [RegionCLIP](https://arxiv.org/abs/2112.09106), and also a [live demo](https://huggingface.co/spaces/CVPR/regionclip-demo) on huggingface!<br/>
-  <img src="/images/dart.png" width="2.5%"/> \[04/2022\] We are releasing our CVPR 2022 paper UniCL [paper](https://arxiv.org/abs/2204.03610) [code](https://github.com/microsoft/UniCL) [demo](https://huggingface.co/spaces/CVPR/unicl-zero-shot-img-recog) - a unified contrastive learning paradigm to learn discriminative and semantic-rich representations from image-label AND image-text data seamlessly!<br/>
-<img src="/images/dart.png" width="2.5%"/> \[03/2022\] We are releasing FocalNet [paper](https://arxiv.org/abs/2203.11926) [code](https://github.com/microsoft/FocalNet) - a simple, effective and attention-free architecture for vision!<br/>
-  <img src="/images/dart.png" width="2.5%"/> \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/> -->
+<h2><img src="/images/fire.png" width="3%"/> <span style="color:red; font-family:Papyrus">Research News</span></h2>
+\[08/2024\] Five papers accepted to ECCV 2024, two papers accepted to CVPR 2024 and one paper accepted to COLM 2024!<br/>
+\[05/2024\] We announced [Phi-3-Vision](https://arxiv.org/pdf/2404.14219), a 4.2B parameter multimodal model with language and vision capabilities! ([blog](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/)[hugging face](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3))<br/>
+\[10/2023\] We released [Set-of-Mark (SoM)](https://som-gpt4v.github.io/) prompting to unleash the extraordinary visual grounding power in GPT-4V. Come and try our SoM toolbox!<br/>
+<!-- \[10/2023\] We released [BiomedJourney](https://microsoft.github.io/BiomedJourney/), a novel method for counterfactual medical image generation by instruction-learning from multimodal patient journeys! Check it out!<br/> -->
+\[09/2023\] [Segment Everything Everywhere All at Once (SEEM)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) has been accepted by NeurIPS 2023!<br/>
+\[09/2023\] Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/>
+\[07/2023\] We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/>
+\[04/2023\] We introduce [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) that can Segment Everything Everywhere with Multi-modal prompts all at once!<br/>
+<!-- \[12/2022\] We released [X-Decoder](https://x-decoder-vl.github.io/), a generalist model for decoding pixel-level masks and token-level semantics seamlessly, achieving state-of-the-art open-vocab segmentation on 8 datasets, referring segmentation on RefCOCOg+ and instance/panoptic segmentation on ADE-20K!<br/> -->
+<!-- \[11/2022\] We wrote a [blog post](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/focalnets-focusing-the-eyes-with-focal-modulation/) to explain in a plain way our FocalNet and the difference from Attention in terms of mechanism, interpretability and performance.<br/> -->
+<!-- \[10/2022\] We scaled up our FocalNets to huge size, and achieved new SoTA on COCO object detection! [64.2 on minival](https://paperswithcode.com/sota/object-detection-on-coco-minival) and [64.3 on test-dev](https://paperswithcode.com/sota/object-detection-on-coco)! Check out our [new version](https://arxiv.org/abs/2203.11926) and [code](https://github.com/microsoft/FocalNet)!<br/> -->
+  <!-- \[09/2022\] Two papers got accepted by NeurIPS 2022, see you in New Orleans, AGAIN!<br/> -->
+  <!-- \[09/2022\] We are organizing [CV in the Wild Workshop and Challange](https://computer-vision-in-the-wild.github.io/eccv-2022/), submit your paper and method!<br/> -->
+  <!-- \[06/2022\] We are releasing the [code](https://github.com/microsoft/RegionCLIP) for our CVPR 2022 paper [RegionCLIP](https://arxiv.org/abs/2112.09106), and also a [live demo](https://huggingface.co/spaces/CVPR/regionclip-demo) on huggingface!<br/>
+  \[04/2022\] We are releasing our CVPR 2022 paper UniCL [paper](https://arxiv.org/abs/2204.03610) [code](https://github.com/microsoft/UniCL) [demo](https://huggingface.co/spaces/CVPR/unicl-zero-shot-img-recog) - a unified contrastive learning paradigm to learn discriminative and semantic-rich representations from image-label AND image-text data seamlessly!<br/>
+\[03/2022\] We are releasing FocalNet [paper](https://arxiv.org/abs/2203.11926) [code](https://github.com/microsoft/FocalNet) - a simple, effective and attention-free architecture for vision!<br/>
+  \[03/2022\] Three papers got accepted by CVPR 2022, see you in New Orleans!<br/> -->
 
 <style>
 table, td, th, tr {
@@ -43,6 +41,19 @@ table, td, th, tr {
    font-size: 14px;
 }
 </style>
+
+<h2><span>Academic Talks and Activities</span></h2>
+<table cellspacing="0" cellpadding="0">
+<tr>
+\[08/2024\] Serve as an Area Chair for ICLR 2025<br/>
+\[07/2024\] Serve as an Area Chair for NeurIPS 2024<br/>
+\[06/2024\] Gave a tutorial on "**A Close Look at Vision in Large Multimodal Models**" at [CVPR 2024 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/) [slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2024/Jianwei_vision_in_LMM.pdf) [youtube](https://youtu.be/bDVbs-fZGUg)<br/>
+\[06/2024\] Gave a keynote talk on "**Promptable Vision Foundation in the Wild: From Head to Tail**" at [CVPR 2024 Worshop on Computer Vision for Materials Science](https://sites.google.com/view/cv4ms-cvpr-2024/home)<br/>
+\[06/2024\] Organized the [3rd Computer Vision in the Wild (CVinW) Workshop at CVPR 2024](https://computer-vision-in-the-wild.github.io/cvpr-2024/).<br/>
+\[05&06/2024\] Invited talk on "**Towards General-Purpose Multimodal Agent**" at University of Washinton and [Together AI](https://www.together.ai/).<br/>
+\[06/2023\] Gave a tutorial on "**From Representation to Interface: The Evolution of Foundation for Vision Understanding**" at [CVPR 2023 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/2023/index.html) [slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2023/slides/Jianwei_CVPR2023_Tutorial.pdf) [youtube](https://youtu.be/wIcTyutOlDs)<br/>
+\[03/2023\] We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)! Welcome to [submit your work](https://cmt3.research.microsoft.com/CVinW2023) and/or participate the [ICinW](https://eval.ai/web/challenges/challenge-page/1832/overview), [ODinW](https://eval.ai/web/challenges/challenge-page/1839/overview) and [SGinW](https://eval.ai/web/challenges/challenge-page/1931/overview) Challenges!<br/>
+\[12/2022\] Served as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
 
 <h2><span>Selected Preprints</span></h2>
 <table cellspacing="0" cellpadding="0">
@@ -60,22 +71,6 @@ table, td, th, tr {
     <a href="https://arxiv.org/abs/2310.11441">[paper]</a>
     <a href="https://github.com/microsoft/SoM">[code]</a>
     <a href="https://som-gpt4v.github.io/">[project]</a>
-  </div>  
-</td>
-</tr>  
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/semantic-sam.jpg" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Semantic-SAM: Segment and Recognize Anything at Any Granularity.</h3>
-  Feng Li*, Hao Zhang*, Peize Sun, Xueyan Zou, Shilong Liu, <b>Jianwei Yang</b>^, Chunyuan Li, Lei Zhang☨, Jianfeng Gao☨.
-  <br>
-  <em>arXiv</em>, 2023
-  <br>
-  <div>
-    <a href="https://arxiv.org/pdf/2307.04767.pdf">[paper]</a>
-    <a href="https://github.com/UX-Decoder/Semantic-SAM">[code]</a>
   </div>  
 </td>
 </tr>  
@@ -100,6 +95,21 @@ table, td, th, tr {
 
 <h2><span>Selected Publications</span></h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/semantic-sam.jpg" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Semantic-SAM: Segment and Recognize Anything at Any Granularity.</h3>
+  Feng Li*, Hao Zhang*, Peize Sun, Xueyan Zou, Shilong Liu, <b>Jianwei Yang</b>^, Chunyuan Li, Lei Zhang☨, Jianfeng Gao☨.
+  <br>
+  <em>ECCV</em>, 2024
+  <br>
+  <div>
+    <a href="https://arxiv.org/pdf/2307.04767.pdf">[paper]</a>
+    <a href="https://github.com/UX-Decoder/Semantic-SAM">[code]</a>
+  </div>  
+</td>
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/seem_teaser.png" height="100%" width="100%" style="border-style: none">
