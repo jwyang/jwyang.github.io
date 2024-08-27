@@ -53,6 +53,7 @@ table, td, th, tr {
 **\[03/2023\]** We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)! Welcome to [submit your work](https://cmt3.research.microsoft.com/CVinW2023) and/or participate the [ICinW](https://eval.ai/web/challenges/challenge-page/1832/overview), [ODinW](https://eval.ai/web/challenges/challenge-page/1839/overview) and [SGinW](https://eval.ai/web/challenges/challenge-page/1931/overview) Challenges!<br/>
 **\[12/2022\]** Served as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
 **\[09/2022\]** Guest lecture on "**Learning Visual Curiosity for an Agent through Language and Embodiment**" at NeurIPS 2021 IGLU Contest. \[[youtube](https://www.youtube.com/watch?v=_mSgCTh0s_I)\]<br/>
+**\[06/2022\]** Gave a tutorial on "**Vision Language Pretraining for Image Classification**" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/VLP-Tutorial_2022/vlp_for_v_part1.pdf)\] \[[youtube](https://youtu.be/Tq7RWYWN2M0)\]) at [CVPR 2022 Tutorial on Recent Advances in Vision-and-Language Pretraining](https://vlp-tutorial.github.io/2022/)<br/>
 **\[09/2021\]** Invited talk on "**Towards Generic Vision Transformers for Supervised and Self-supervised Representation Learning**" at EPFL. \[[youtube](https://www.youtube.com/watch?v=fk-6JdRjLPw)\]<br/>
 
 <h2><span>Selected Preprints</span></h2>
