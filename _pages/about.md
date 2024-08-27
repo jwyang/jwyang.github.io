@@ -47,7 +47,7 @@ table, td, th, tr {
 **\[06/2024\]** Gave a tutorial on "**A Close Look at Vision in Large Multimodal Models**"(\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2024/Jianwei_vision_in_LMM.pdf)\] \[[youtube](https://youtu.be/bDVbs-fZGUg)\]) at [CVPR 2024 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)<br/>
 **\[06/2024\]** Gave a keynote talk on "**Promptable Vision Foundation in the Wild: From Head to Tail**" at [CVPR 2024 Worshop on Computer Vision for Materials Science](https://sites.google.com/view/cv4ms-cvpr-2024/home)<br/>
 **\[06/2024\]** Organized the [3rd Computer Vision in the Wild (CVinW) Workshop at CVPR 2024](https://computer-vision-in-the-wild.github.io/cvpr-2024/).<br/>
-**\[05&06/2024\]** Invited talk on "**Towards General-Purpose Multimodal Agent**" at University of Washinton and Together AI<br/>
+**\[05&06/2024\]** Invited talk on "**Towards General-Purpose Multimodal Agent**" at University of Washington and Together AI<br/>
 **\[07/2023\]** Panel Discussion on AI Frontier at WAIC and invited talk on "**Towards General-Purpose Multimodal Agent**" at IDEA<br/>
 **\[06/2023\]** Gave a tutorial on "**From Representation to Interface: The Evolution of Foundation for Vision Understanding**" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2023/slides/Jianwei_CVPR2023_Tutorial.pdf)\] \[[youtube](https://youtu.be/wIcTyutOlDs)\]) at [CVPR 2023 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/2023/index.html)<br/>
 **\[03/2023\]** We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)!<br/>
