@@ -51,8 +51,8 @@ table, td, th, tr {
 **\[06/2023\]** Gave a tutorial on "**From Representation to Interface: The Evolution of Foundation for Vision Understanding**" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2023/slides/Jianwei_CVPR2023_Tutorial.pdf)\] \[[youtube](https://youtu.be/wIcTyutOlDs)\]) at [CVPR 2023 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/2023/index.html)<br/>
 **\[03/2023\]** We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)!<br/>
 **\[12/2022\]** Served as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/)<br/>
-**\[09/2022\]** Guest lecture on "**Learning Visual Curiosity for an Agent through Language and Embodiment**" at NeurIPS 2021 IGLU Contest \[[youtube](https://www.youtube.com/watch?v=_mSgCTh0s_I)\]<br/>
 **\[06/2022\]** Gave a tutorial on "**Vision Language Pretraining for Image Classification**" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/VLP-Tutorial_2022/vlp_for_v_part1.pdf)\] \[[youtube](https://youtu.be/Tq7RWYWN2M0)\]) at [CVPR 2022 Tutorial on Recent Advances in Vision-and-Language Pretraining](https://vlp-tutorial.github.io/2022/)<br/>
+**\[09/2021\]** Guest lecture on "**Learning Visual Curiosity for an Agent through Language and Embodiment**" at NeurIPS 2021 IGLU Contest \[[youtube](https://www.youtube.com/watch?v=_mSgCTh0s_I)\]<br/>
 **\[09/2021\]** Invited talk on "**Towards Generic Vision Transformers for Supervised and Self-supervised Representation Learning**" at EPFL \[[youtube](https://www.youtube.com/watch?v=fk-6JdRjLPw)\]<br/>
 
 <h2><span>Selected Preprints</span></h2>
