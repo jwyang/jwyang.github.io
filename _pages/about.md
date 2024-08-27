@@ -42,18 +42,18 @@ table, td, th, tr {
 </style>
 
 <h2><span style="font-family:Papyrus">Academic Activities</span></h2>
-**\[07&08/2024\]** Serve as an Area Chair for [NeurIPS 2024](https://neurips.cc/) and [ICLR 2025](https://iclr.cc/Conferences/2025)<br/>
-**\[06/2024\]** Gave a tutorial on "**A Close Look at Vision in Large Multimodal Models**"(\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2024/Jianwei_vision_in_LMM.pdf)\] \[[youtube](https://youtu.be/bDVbs-fZGUg)\]) at [CVPR 2024 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)<br/>
-**\[06/2024\]** Gave a keynote talk on "**Promptable Vision Foundation in the Wild: From Head to Tail**" at [CVPR 2024 Worshop on Computer Vision for Materials Science](https://sites.google.com/view/cv4ms-cvpr-2024/home)<br/>
+**\[07&08/2024\]** Serve as an Area Chair for [NeurIPS 2024](https://neurips.cc/) and [ICLR 2025](https://iclr.cc/Conferences/2025).<br/>
+**\[06/2024\]** Gave a tutorial on "**A Close Look at Vision in Large Multimodal Models**"(\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2024/Jianwei_vision_in_LMM.pdf)\] \[[youtube](https://youtu.be/bDVbs-fZGUg)\]) at [CVPR 2024 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/).<br/>
+**\[06/2024\]** Gave a keynote talk on "**Promptable Vision Foundation in the Wild: From Head to Tail**" at [CVPR 2024 Worshop on Computer Vision for Materials Science](https://sites.google.com/view/cv4ms-cvpr-2024/home).<br/>
 **\[06/2024\]** Organized the [3rd Computer Vision in the Wild (CVinW) Workshop at CVPR 2024](https://computer-vision-in-the-wild.github.io/cvpr-2024/).<br/>
-**\[05&06/2024\]** Invited talk on "**Towards General-Purpose Multimodal Agent**" at University of Washington and Together AI<br/>
-**\[07/2023\]** Panel Discussion on AI Frontier at WAIC and invited talk on "**Towards General-Purpose Multimodal Agent**" at IDEA<br/>
-**\[06/2023\]** Gave a tutorial on "**From Representation to Interface: The Evolution of Foundation for Vision Understanding**" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2023/slides/Jianwei_CVPR2023_Tutorial.pdf)\] \[[youtube](https://youtu.be/wIcTyutOlDs)\]) at [CVPR 2023 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/2023/index.html)<br/>
+**\[05&06/2024\]** Invited talk on "**Towards General-Purpose Multimodal Agent**" at University of Washington and Together AI.<br/>
+**\[07/2023\]** Panel Discussion on AI Frontier at WAIC and invited talk on "**Towards General-Purpose Multimodal Agent**" at IDEA.<br/>
+**\[06/2023\]** Gave a tutorial on "**From Representation to Interface: The Evolution of Foundation for Vision Understanding**" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2023/slides/Jianwei_CVPR2023_Tutorial.pdf)\] \[[youtube](https://youtu.be/wIcTyutOlDs)\]) at [CVPR 2023 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/2023/index.html).<br/>
 **\[03/2023\]** We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)!<br/>
-**\[12/2022\]** Served as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/)<br/>
-**\[06/2022\]** Gave a tutorial on "**Vision Language Pretraining for Image Classification**" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/VLP-Tutorial_2022/vlp_for_v_part1.pdf)\] \[[youtube](https://youtu.be/Tq7RWYWN2M0)\]) at [CVPR 2022 Tutorial on Recent Advances in Vision-and-Language Pretraining](https://vlp-tutorial.github.io/2022/)<br/>
-**\[09/2021\]** Guest lecture on "**Learning Visual Curiosity for an Agent through Language and Embodiment**" at NeurIPS 2021 IGLU Contest \[[youtube](https://www.youtube.com/watch?v=_mSgCTh0s_I)\]<br/>
-**\[09/2021\]** Invited talk on "**Towards Generic Vision Transformers for Supervised and Self-supervised Representation Learning**" at EPFL \[[youtube](https://www.youtube.com/watch?v=fk-6JdRjLPw)\]<br/>
+**\[12/2022\]** Served as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
+**\[06/2022\]** Gave a tutorial on "**Vision Language Pretraining for Image Classification**" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/VLP-Tutorial_2022/vlp_for_v_part1.pdf)\] \[[youtube](https://youtu.be/Tq7RWYWN2M0)\]) at [CVPR 2022 Tutorial on Recent Advances in Vision-and-Language Pretraining](https://vlp-tutorial.github.io/2022/).<br/>
+**\[09/2021\]** Guest lecture on "**Learning Visual Curiosity for an Agent through Language and Embodiment**"\[[youtube](https://www.youtube.com/watch?v=_mSgCTh0s_I)\] at NeurIPS 2021 IGLU Contest.<br/>
+**\[09/2021\]** Invited talk on "**Towards Generic Vision Transformers for Supervised and Self-supervised Representation Learning**"\[[youtube](https://www.youtube.com/watch?v=fk-6JdRjLPw)\] at EPFL.<br/>
 
 <h2><span>Selected Preprints</span></h2>
 <table cellspacing="0" cellpadding="0">
