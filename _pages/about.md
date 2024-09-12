@@ -43,6 +43,7 @@ table, td, th, tr {
 </style>
 
 <h2><span style="font-family:Papyrus">Academic Activities</span></h2>
+**\[9/2024\]**Have a great panel discussion about the next generation of multimodal models at [Microsoft Research Forum Session 4](https://researchforum.microsoft.com/).<br/>
 **\[07&08/2024\]** Serve as an Area Chair for [NeurIPS 2024](https://neurips.cc/) and [ICLR 2025](https://iclr.cc/Conferences/2025).<br/>
 **\[06/2024\]** Gave a tutorial on "**A Close Look at Vision in Large Multimodal Models**"(\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2024/Jianwei_vision_in_LMM.pdf)\] \[[youtube](https://youtu.be/bDVbs-fZGUg)\]) at [CVPR 2024 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/).<br/>
 **\[06/2024\]** Gave a keynote talk on "**Promptable Vision Foundation in the Wild: From Head to Tail**" at [CVPR 2024 Worshop on Computer Vision for Materials Science](https://sites.google.com/view/cv4ms-cvpr-2024/home).<br/>
