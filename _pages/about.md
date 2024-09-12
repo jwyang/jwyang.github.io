@@ -49,7 +49,7 @@ table, td, th, tr {
 **\[06/2024\]** Gave a keynote talk on "<u>Promptable Vision Foundation in the Wild: From Head to Tail</u>" at [CVPR 2024 Worshop on Computer Vision for Materials Science](https://sites.google.com/view/cv4ms-cvpr-2024/home).<br/>
 **\[06/2024\]** Organized the [3rd Computer Vision in the Wild (CVinW) Workshop at CVPR 2024](https://computer-vision-in-the-wild.github.io/cvpr-2024/).<br/>
 **\[05&06/2024\]** Invited talk on "<u>Towards General-Purpose Multimodal Agent</u>" at University of Washington and Together AI.<br/>
-**\[07/2023\]** Panel Discussion on AI Frontier at WAIC and invited talk on "**Towards General-Purpose Multimodal Agent**" at IDEA.<br/>
+**\[07/2023\]** Panel Discussion on AI Frontier at WAIC and invited talk on "<u>Towards General-Purpose Multimodal Agent</u>" at IDEA.<br/>
 **\[06/2023\]** Gave a tutorial on "<u>From Representation to Interface: The Evolution of Foundation for Vision Understanding</u>" (\[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2023/slides/Jianwei_CVPR2023_Tutorial.pdf)\] \[[youtube](https://youtu.be/wIcTyutOlDs)\]) at [CVPR 2023 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/2023/index.html).<br/>
 **\[03/2023\]** We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)!<br/>
 **\[12/2022\]** Served as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
