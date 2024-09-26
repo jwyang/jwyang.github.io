@@ -16,6 +16,7 @@ My current research is focused on building **generalist multi-modal agent**. Our
 **If you are interested in working with me, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
+**\[09/2024\]** Three papers accepted to [NeurIPS 2024](https://neurips.cc/)!<br/>
 **\[09/2024\]** [BiomedParse](https://arxiv.org/abs/2405.12971) is accepted by [Nature Methods](https://www.nature.com/nmeth/) and [GigaPath](https://www.nature.com/articles/s41586-024-07441-w) got accepted by [Nature](https://www.nature.com/)! Big congratulations to Health Future team and cheers on the great collaborations!<br/>
 **\[08/2024\]** Five papers accepted to [ECCV 2024](https://eccv.ecva.net/), two papers accepted to [CVPR 2024](https://cvpr.thecvf.com/) and one paper accepted to [COLM 2024](https://colmweb.org/)!<br/>
 **\[05/2024\]** We announced [Phi-3-Vision](https://arxiv.org/pdf/2404.14219), a 4.2B parameter multimodal model with language and vision capabilities! \[[blog](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/)\] \[[hugging face](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3)\]<br/>
