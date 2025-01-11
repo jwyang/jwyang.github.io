@@ -16,7 +16,7 @@ My current research is focused on building **generalist multi-modal agent**. Our
 **If you are interested in working with me, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
-**\[12/2024\]** We studied the potential of generative pretrained vision tokenizer for LMMs in [Florence-VL](https://arxiv.org/pdf/2412.04424), and evalated the vision perception capabilities (segmentation, depth estimation, etc) by distilling the knowledge into LLMs for LMMs in [OLA-VLM](https://arxiv.org/pdf/2412.09585)!<br/>
+**\[12/2024\]** [Florence-VL](https://arxiv.org/pdf/2412.04424) studied the potential of generative pretrained vision tokenizer for LMMs, [OLA-VLM](https://arxiv.org/pdf/2412.09585) evalated the vision perception capabilities for LMMs by distilling the visual knowledge into LLMs!<br/>
 **\[11/2024\]** We released [OmniParser](https://huggingface.co/microsoft/OmniParser) models, a pure vision based UI parser for computer use!<br/>
 **\[10/2024\]** We proposed [LAPA](https://arxiv.org/pdf/2410.11758), the first work that learns latent actions for robot manipulation from videos in the wild!<br/>
 **\[10/2024\]** We released [TemporalBench](https://arxiv.org/pdf/2410.10818) for evaluating LMMs the fine-grained understanding of temporal dynamics in videos!<br/>
@@ -48,7 +48,7 @@ table, td, th, tr {
 </style>
 
 <h2><span style="font-family:Papyrus">Academic Activities</span></h2>
-**\[12/2024\]** Gave a talk "Towards Multimodal Agentic Models that Understand the Past and Act for the Future" at NeurIPS 2024 [1st Workshop on Video-Language Models](https://video-and-language-workshop-2024.webflow.io/).<br/>
+**\[12/2024\]** Gave a talk "<u>Towards Multimodal Agentic Models that Understand the Past and Act for the Future</u>" at NeurIPS 2024 [1st Workshop on Video-Language Models](https://video-and-language-workshop-2024.webflow.io/).<br/>
 **\[09/2024\]** Have a great panel discussion about the next generation multimodal models at [Microsoft Research Forum Session 4 on Multimodality](https://researchforum.microsoft.com/).<br/>
 **\[07&08/2024\]** Serve as an Area Chair for [NeurIPS 2024](https://neurips.cc/) and [ICLR 2025](https://iclr.cc/Conferences/2025).<br/>
 **\[06/2024\]** Gave a tutorial on "<u>A Close Look at Vision in Large Multimodal Models</u>" \[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2024/Jianwei_vision_in_LMM.pdf)\] \[[youtube](https://youtu.be/bDVbs-fZGUg)\] at [CVPR 2024 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/).<br/>
