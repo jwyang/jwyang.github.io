@@ -71,7 +71,6 @@ table, td, th, tr {
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Phi-3 technical report: A highly capable language model locally on your phone.</h3>
-  <b>Phi-3 Authors.
   <br>
   <em>arXiv</em>, 2024
   <br>
