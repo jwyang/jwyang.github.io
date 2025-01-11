@@ -16,6 +16,10 @@ My current research is focused on building **generalist multi-modal agent**. Our
 **If you are interested in working with me, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
+**\[12/2024\]** We studied the potential of generative pretrained vision tokenizer for LMMs in [Florence-VL](https://arxiv.org/pdf/2412.04424), and evalated the vision perception capabilities (segmentation, depth estimation, etc) by distilling the knowledge into LLMs for LMMs in [OLA-VLM](https://arxiv.org/pdf/2412.09585)!<br/>
+**\[11/2024\]** We released [OmniParser](https://huggingface.co/microsoft/OmniParser) models, a pure vision based UI parser for computer use!<br/>
+**\[10/2024\]** We proposed [LAPA](https://arxiv.org/pdf/2410.11758), the first work that learns latent actions for robot manipulation from videos in the wild!<br/>
+**\[10/2024\]** We released [TemporalBench](https://arxiv.org/pdf/2410.10818) for evaluating LMMs the fine-grained understanding of temporal dynamics in videos!<br/>
 **\[09/2024\]** Three papers accepted to [NeurIPS 2024](https://neurips.cc/)!<br/>
 **\[09/2024\]** [BiomedParse](https://arxiv.org/abs/2405.12971) is accepted by [Nature Methods](https://www.nature.com/nmeth/) and [GigaPath](https://www.nature.com/articles/s41586-024-07441-w) got accepted by [Nature](https://www.nature.com/)! Big congratulations to Health Future team and cheers on the great collaborations!<br/>
 **\[08/2024\]** Five papers accepted to [ECCV 2024](https://eccv.ecva.net/), two papers accepted to [CVPR 2024](https://cvpr.thecvf.com/) and one paper accepted to [COLM 2024](https://colmweb.org/)!<br/>
@@ -44,6 +48,7 @@ table, td, th, tr {
 </style>
 
 <h2><span style="font-family:Papyrus">Academic Activities</span></h2>
+**\[12/2024\]** Gave a talk "Towards Multimodal Agentic Models that Understand the Past and Act for the Future" at NeurIPS 2024 [1st Workshop on Video-Language Models](https://video-and-language-workshop-2024.webflow.io/).<br/>
 **\[09/2024\]** Have a great panel discussion about the next generation multimodal models at [Microsoft Research Forum Session 4 on Multimodality](https://researchforum.microsoft.com/).<br/>
 **\[07&08/2024\]** Serve as an Area Chair for [NeurIPS 2024](https://neurips.cc/) and [ICLR 2025](https://iclr.cc/Conferences/2025).<br/>
 **\[06/2024\]** Gave a tutorial on "<u>A Close Look at Vision in Large Multimodal Models</u>" \[[slides](https://datarelease.blob.core.windows.net/tutorial/vision_foundation_models_2024/Jianwei_vision_in_LMM.pdf)\] \[[youtube](https://youtu.be/bDVbs-fZGUg)\] at [CVPR 2024 Tutorial on Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/).<br/>
@@ -60,6 +65,22 @@ table, td, th, tr {
 
 <h2><span>Selected Preprints</span></h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/Phi-3-vision-official.jpg" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Phi-3 technical report: A highly capable language model locally on your phone.</h3>
+  <b>Phi-3 Authors.
+  <br>
+  <em>arXiv</em>, 2024
+  <br>
+  <div>
+    <a href="https://arxiv.org/pdf/2404.14219?">[paper]</a>
+    <a href="https://huggingface.co/microsoft/Phi-3-vision-128k-instruct">[model]</a>
+  </div>  
+</td>
+</tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/som_teaser.png" height="100%" width="100%" style="border-style: none">
