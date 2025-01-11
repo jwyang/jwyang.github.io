@@ -16,8 +16,8 @@ My current research is focused on building **generalist multi-modal agent**. Our
 **If you are interested in working with me, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
-**\[12/2024\]** [Florence-VL](https://arxiv.org/pdf/2412.04424) studied the potential of generative pretrained vision tokenizer for LMMs, [OLA-VLM](https://arxiv.org/pdf/2412.09585) evalated the vision perception capabilities for LMMs by distilling the visual knowledge into LLMs!<br/>
-**\[11/2024\]** We released [OmniParser](https://huggingface.co/microsoft/OmniParser) models, a pure vision based UI parser for computer use!<br/>
+**\[12/2024\]** [Florence-VL](https://arxiv.org/pdf/2412.04424) studied the potential of generative pretrained vision tokenizer for LMMs, [OLA-VLM](https://arxiv.org/pdf/2412.09585) elevated the vision perception capabilities for LMMs by distilling the visual knowledge into LLMs!<br/>
+**\[11/2024\]** We released [OmniParser](https://huggingface.co/microsoft/OmniParser) models and [code](https://github.com/microsoft/OmniParser) (5.5k stars), a pure vision based UI parser for computer use!<br/>
 **\[10/2024\]** We proposed [LAPA](https://arxiv.org/pdf/2410.11758), the first work that learns latent actions for robot manipulation from videos in the wild!<br/>
 **\[10/2024\]** We released [TemporalBench](https://arxiv.org/pdf/2410.10818) for evaluating LMMs the fine-grained understanding of temporal dynamics in videos!<br/>
 **\[09/2024\]** Three papers accepted to [NeurIPS 2024](https://neurips.cc/)!<br/>
