@@ -27,10 +27,10 @@ My current research is focused on building **generalist multi-modal agent**. Our
 **\[10/2023\]** We released [Set-of-Mark (SoM)](https://som-gpt4v.github.io/) prompting to unleash the extraordinary visual grounding power in GPT-4V. Come and try our SoM toolbox!<br/>
 <!-- \[10/2023\] We released [BiomedJourney](https://microsoft.github.io/BiomedJourney/), a novel method for counterfactual medical image generation by instruction-learning from multimodal patient journeys! Check it out!<br/> -->
 **\[09/2023\]** [Segment Everything Everywhere All at Once (SEEM)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) has been accepted by NeurIPS 2023!<br/>
-**\[09/2023\]** Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/>
-**\[07/2023\]** We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/>
-**\[04/2023\]** We introduce [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) that can Segment Everything Everywhere with Multi-modal prompts all at once!<br/>
-**\[12/2022\]** We released [X-Decoder](https://x-decoder-vl.github.io/), a generalist model for decoding pixel-level masks and token-level semantics seamlessly!<br/>
+<!-- **\[09/2023\]** Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/> -->
+<!-- **\[07/2023\]** We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/> -->
+<!-- **\[04/2023\]** We introduce [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) that can Segment Everything Everywhere with Multi-modal prompts all at once!<br/> -->
+<!-- **\[12/2022\]** We released [X-Decoder](https://x-decoder-vl.github.io/), a generalist model for decoding pixel-level masks and token-level semantics seamlessly!<br/> -->
 <!-- \[11/2022\] We wrote a [blog post](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/focalnets-focusing-the-eyes-with-focal-modulation/) to explain in a plain way our FocalNet and the difference from Attention in terms of mechanism, interpretability and performance.<br/> -->
 <!-- \[10/2022\] We scaled up our FocalNets to huge size, and achieved new SoTA on COCO object detection! [64.2 on minival](https://paperswithcode.com/sota/object-detection-on-coco-minival) and [64.3 on test-dev](https://paperswithcode.com/sota/object-detection-on-coco)! Check out our [new version](https://arxiv.org/abs/2203.11926) and [code](https://github.com/microsoft/FocalNet)!<br/> -->
   <!-- \[09/2022\] Two papers got accepted by NeurIPS 2022, see you in New Orleans, AGAIN!<br/> -->
@@ -60,7 +60,7 @@ table, td, th, tr {
 **\[03/2023\]** We are announcing the [2nd Computer Vision in the Wild (CVinW) Workshop at CVPR 2023](https://computer-vision-in-the-wild.github.io/cvpr-2023/)!<br/>
 **\[12/2022\]** Served as an Area Chair for [ICCV 2023](https://iccv2023.thecvf.com/).<br/>
 **\[06/2022\]** Gave a tutorial on "<u>Vision Language Pretraining for Image Classification</u>" \[[slides](https://datarelease.blob.core.windows.net/tutorial/VLP-Tutorial_2022/vlp_for_v_part1.pdf)\] \[[youtube](https://youtu.be/Tq7RWYWN2M0)\] at [CVPR 2022 Tutorial on Recent Advances in Vision-and-Language Pretraining](https://vlp-tutorial.github.io/2022/).<br/>
-**\[09/2021\]** Guest lecture on "<u>Learning Visual Curiosity for an Agent through Language and Embodiment</u>" \[[youtube](https://www.youtube.com/watch?v=_mSgCTh0s_I)\] at NeurIPS 2021 IGLU Contest.<br/>
+<!-- **\[09/2021\]** Guest lecture on "<u>Learning Visual Curiosity for an Agent through Language and Embodiment</u>" \[[youtube](https://www.youtube.com/watch?v=_mSgCTh0s_I)\] at NeurIPS 2021 IGLU Contest.<br/> -->
 <!-- **\[09/2021\]** Invited talk on "**Towards Generic Vision Transformers for Supervised and Self-supervised Representation Learning**"\[[youtube](https://www.youtube.com/watch?v=fk-6JdRjLPw)\] at EPFL.<br/> -->
 
 <h2><span>Selected Preprints</span></h2>
@@ -71,6 +71,7 @@ table, td, th, tr {
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Phi-3 technical report: A highly capable language model locally on your phone.</h3>
+  Phi-3-Vision Team.
   <br>
   <em>arXiv</em>, 2024
   <br>
@@ -103,7 +104,7 @@ table, td, th, tr {
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Florence: A new foundation model for computer vision.</h3>
-  Lu Yuan*, Dongdong Chen, Yi-Ling Chen, Noel Codella, Xiyang Dai, Jianfeng Gao, Houdong Hu, Xuedong Huang, Boxin Li, Chunyuan Li, Ce Liu, Mengchen Liu, Zicheng Liu, Yumao Lu, Yu Shi, Lijuan Wang, Jianfeng Wang, Bin Xiao, Zhen Xiao, <b>Jianwei Yang</b>, Michael Zeng, Luowei Zhou, Pengchuan Zhang. (Team members in alphabetic order)
+  Florence Team.
   <br>
   <em>arXiv</em>, 2021
   <br>
