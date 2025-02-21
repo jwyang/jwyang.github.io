@@ -11,11 +11,14 @@ redirect_from:
 Hi! I am a principal researcher in [Deep Learning Group](https://www.microsoft.com/en-us/research/group/deep-learning-group/) at Microsoft Research, Redmond, directed by [Dr. Jianfeng Gao](http://research.microsoft.com/en-us/um/people/jfgao/). Prior to joining Microsoft at March 2020, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu) with thesis "[**Structured Visual Understanding, Generation and Reasoning**](https://repository.gatech.edu/entities/publication/93299669-0326-445a-adbb-b6050cd2eec9)". I was fortunate to be supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
 <!-- My research interests span in computer vision, vision & language and machine learning. More specifically, my primary researches are about structured visual understanding at different levels and how to further leverage them for intelligent interactions with human through language and environment through embodiment. I believe, by integrating fine-grained structured information, we can achieve better yet interpretable, grounded and robust multi-modality intelligent agents. -->
 
-My current research is focused on building **generalist multi-modal agent**. We are the first few in this line of research and have produced a series of works, including (a) multimodal vision foundation models: [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), large-scale foundation model [Florence](https://arxiv.org/abs/2111.11432); (b) generalist multimodal models [X-Decoder](https://x-decoder-vl.github.io/), [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once), [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) and (c) large multimodal models [LLaVa](https://github.com/haotian-liu/LLaVA) variants, [SoM Prompting for GPT-4V](https://som-gpt4v.github.io/), and [Phi-3-Vision](https://arxiv.org/pdf/2404.14219). I believe, further pushing forward, we can achieve performant yet interpretable, grounded and robust multi-modality intelligent agents.
+My current research is focused on building **generalist multi-modal agent**. We are the first few in this line of research and have produced a series of works, including (a) multimodal vision foundation models: [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), large-scale foundation model [Florence](https://arxiv.org/abs/2111.11432); (b) generalist multimodal models [X-Decoder](https://x-decoder-vl.github.io/), [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once), [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) and (c) large multimodal models [LLaVa](https://github.com/haotian-liu/LLaVA) variants, [SoM Prompting for GPT-4V](https://som-gpt4v.github.io/), and [Phi-3-Vision](https://arxiv.org/pdf/2404.14219). 
+
+Most recently, I led the **Project Magma**, which is the flagship project at MSR towards multimodal agentic foundation. It ranked at <span style="color:green">Hacker News top 1 on 02.20.2025</span> and has been widely discussed in the community. Starting from now, further pushing forward, we can achieve performant yet interpretable, grounded and robust multi-modality intelligent agents!
 
 **If you are interested in working with me, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
+**\[02/2025\]** We released [Magma](https://microsoft.github.io/Magma/), the flagship project at MSR towards multimodal agentic foundation! A single model can serve multimodal understanding and action-taking seamlessly. Check it out!<br/>
 **\[01/2025\]** Three papers accepted to [ICLR 2025](https://iclr.cc/)!<br/>
 **\[01/2025\]** We released [TraceVLA](https://arxiv.org/pdf/2412.10345) applying visual trace prompting to enchance the spatial-temporal awareness of vision-language-action models for robotics manipulation task!<br/>
 **\[12/2024\]** [Florence-VL](https://arxiv.org/pdf/2412.04424) studied the potential of generative pretrained vision tokenizer for LMMs, [OLA-VLM](https://arxiv.org/pdf/2412.09585) elevated the vision perception capabilities for LMMs by distilling the visual knowledge into LLMs!<br/>
@@ -67,6 +70,22 @@ table, td, th, tr {
 
 <h2><span>Selected Preprints</span></h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/magma_teaser_hp.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Magma: A Foundation Model for Multimodal AI Agents.</h3>
+  Magma Team.
+  <br>
+  <em>arXiv</em>, 2025
+  <br>
+  <div>
+    <a href="https://microsoft.github.io/Magma/">[project]</a>
+    <a href="https://www.arxiv.org/pdf/2502.13130">[model]</a>
+  </div>  
+</td>
+</tr>  
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/Phi-3-vision-official.jpg" height="100%" width="100%" style="border-style: none">
