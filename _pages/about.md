@@ -48,7 +48,7 @@ table, td, th, tr {
 </style>
 
 <h2><span style="font-family:Papyrus">Academic Activities</span></h2>
-**\[03/2025\]** Invited to give a talk about [Magma: A Foundation for Multimodal AI Agents](https://github.com/microsoft/Magma) at OpenAI Robotics team.<br/>
+**\[03/2025\]** Invited to give a talk about [Magma: A Foundation Model for Multimodal AI Agents](https://github.com/microsoft/Magma) at OpenAI Robotics team.<br/>
 **\[12/2024\]** Gave a talk "<u>Towards Multimodal Agentic Models that Understand the Past and Act for the Future</u>" at NeurIPS 2024 [1st Workshop on Video-Language Models](https://video-and-language-workshop-2024.webflow.io/).<br/>
 **\[09/2024\]** Have a great panel discussion about the next generation multimodal models at [Microsoft Research Forum Session 4 on Multimodality](https://researchforum.microsoft.com/).<br/>
 **\[07&08/2024\]** Serve as an Area Chair for [NeurIPS 2024](https://neurips.cc/) and [ICLR 2025](https://iclr.cc/Conferences/2025).<br/>
