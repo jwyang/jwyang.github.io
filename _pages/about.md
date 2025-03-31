@@ -19,19 +19,14 @@ Most recently, I led [**Project Magma**](https://microsoft.github.io/Magma/), th
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
 **\[02/2025\]** We released [Magma](https://microsoft.github.io/Magma/), the flagship project at MSR towards multimodal agentic foundation! A single model can serve multimodal understanding and action-taking seamlessly. Check it out!<br/>
-**\[01/2025\]** Three papers accepted to [ICLR 2025](https://iclr.cc/)!<br/>
 **\[01/2025\]** We released [TraceVLA](https://arxiv.org/pdf/2412.10345) applying visual trace prompting to enchance the spatial-temporal awareness of vision-language-action models for robotics manipulation task!<br/>
 **\[12/2024\]** [Florence-VL](https://arxiv.org/pdf/2412.04424) studied the potential of generative pretrained vision tokenizer for LMMs, [OLA-VLM](https://arxiv.org/pdf/2412.09585) elevated the vision perception capabilities for LMMs by distilling the visual knowledge into LLMs!<br/>
 **\[11/2024\]** We released [OmniParser](https://huggingface.co/microsoft/OmniParser) models and [code](https://github.com/microsoft/OmniParser) (5.5k stars), a pure vision based UI parser for computer use!<br/>
 **\[10/2024\]** We proposed [LAPA](https://arxiv.org/pdf/2410.11758), the first work that learns latent actions from videos in the wild for robot manipulation!<br/>
 **\[10/2024\]** We released [TemporalBench](https://arxiv.org/pdf/2410.10818) for evaluating LMMs the fine-grained understanding of temporal dynamics in videos!<br/>
-**\[09/2024\]** Three papers accepted to [NeurIPS 2024](https://neurips.cc/)!<br/>
 **\[09/2024\]** [BiomedParse](https://arxiv.org/abs/2405.12971) is accepted by [Nature Methods](https://www.nature.com/nmeth/) and [GigaPath](https://www.nature.com/articles/s41586-024-07441-w) got accepted by [Nature](https://www.nature.com/)! Big congratulations to Health Future team and cheers on the great collaborations!<br/>
-**\[08/2024\]** Five papers accepted to [ECCV 2024](https://eccv.ecva.net/), two papers accepted to [CVPR 2024](https://cvpr.thecvf.com/) and one paper accepted to [COLM 2024](https://colmweb.org/)!<br/>
 **\[05/2024\]** We announced [Phi-3-Vision](https://arxiv.org/pdf/2404.14219), a 4.2B parameter multimodal model with language and vision capabilities! \[[blog](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/)\] \[[hugging face](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3)\]<br/>
 **\[10/2023\]** We released [Set-of-Mark (SoM)](https://som-gpt4v.github.io/) prompting to unleash the extraordinary visual grounding power in GPT-4V. Come and try our SoM toolbox!<br/>
-<!-- \[10/2023\] We released [BiomedJourney](https://microsoft.github.io/BiomedJourney/), a novel method for counterfactual medical image generation by instruction-learning from multimodal patient journeys! Check it out!<br/> -->
-**\[09/2023\]** [Segment Everything Everywhere All at Once (SEEM)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) has been accepted by NeurIPS 2023!<br/>
 <!-- **\[09/2023\]** Check out our Survey Paper and Book on [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)!<br/> -->
 <!-- **\[07/2023\]** We are releasing [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), a universal image segmentation model to enable segment and recognize anything at any desired granularity!<br/> -->
 <!-- **\[04/2023\]** We introduce [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) that can Segment Everything Everywhere with Multi-modal prompts all at once!<br/> -->
