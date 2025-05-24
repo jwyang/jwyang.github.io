@@ -15,7 +15,7 @@ My current research is focused on building **generalist multi-modal agent**. We 
 
 Most recently, I led [**Project Magma**](https://microsoft.github.io/Magma/), the flagship project at MSR towards multimodal ai agents. The project was <span style="color:red">ranked #1 on Hacker News on February 20, 2025</span>, reflecting its broad impact and interest. Looking ahead, I’m committed to the next wave of progress—building intelligent agents that are not only high-performing but also grounded, interpretable and reliable across modalities.
 
-**If you are interested in working with me, please feel free to drop me an email through jianwei.yang at microsoft dot com.**
+**If you are want to contact me, please send the email to jw2.yang@gmail.com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
 **\[02/2025\]** We released [Magma](https://microsoft.github.io/Magma/), the flagship project at MSR towards multimodal agentic foundation! A single model can serve multimodal understanding and action-taking seamlessly. Check it out!<br/>
