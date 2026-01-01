@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am now a Member of Technical Staff at xAI. I was a Research Scientist at Meta SuperIntelligence Lab, and a principal researcher at MSR.
+Hi! I am now a Member of Technical Staff at xAI. I was a Research Scientist at Meta SuperIntelligence Lab, and a Principal Researcher at MSR.
 
 My current research is focused on building **generalist multi-modal models**. We are the first few in this line of research and have produced a series of works, including (a) multimodal vision foundation models: [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), large-scale foundation model [Florence](https://arxiv.org/abs/2111.11432); (b) generalist multimodal models [X-Decoder](https://x-decoder-vl.github.io/), [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once), [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) and (c) large multimodal models [LLaVa](https://github.com/haotian-liu/LLaVA) variants, [SoM Prompting for GPT-4V](https://som-gpt4v.github.io/), and [Phi-3-Vision](https://arxiv.org/pdf/2404.14219). 
 
